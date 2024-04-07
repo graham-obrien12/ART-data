@@ -1,0 +1,180 @@
+---
+title: "Exploration of the % of HIV+ Pregnant receving lifelong ART"
+subtitle: "By Graham O Brien"
+Author: "Graham O Brien"
+Date: "04/4/24"
+format: html
+toc: true
+toccolor: "red"
+theme: solar 
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+library(plotly)
+library(dplyr)
+library(readxl)
+
+unicef_indicator_2 <- read_excel("unicef_indicator_2.xlsx")
+unicef_metadata <- read_csv("unicef_metadata.csv")
+data_right_333 <- read_csv("data_right_333.csv")
+Fertility_rates <- read_csv("Fertility_rates.csv")
+
+data_join_all2 <- unicef_indicator_2 %>%
+  full_join(Fertility_rates) %>%
+  full_join(data_right_333)
+
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(year) & year != "N/A")
+
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(continent) & continent != "N/A")
+```
+
+![](https://1000logos.net/wp-content/uploads/2021/03/UNICEF-logo.png)
+
+## Introduction
+
+In this Quarto file, we embark on a journey to delve into the complexities surrounding the ***percentage of HIV+ pregnant women who receive Lifelong ART***. We navigate through layers of data, seeking to understand the multifaceted factors that shape access to care and impact health outcomes for vulnerable populations. The data comes from ~~all over the globe~~ poorer countries across **Africa, Asia and South America**. *ART is the treatment for people who are HIV+*. Access to ART during pregnancy significantly reduces the risk of mother-to-child transmission of HIV, improving the health and well-being of both mothers and their infants.
+
+More information about the data can be found here <https://data.unicef.org/indicator-profile/>
+
+*a rough guide to the visualisations can be seen below*
+
+```{mermaid}
+flowchart LR
+  A[Map Analysis] --> B(Time-Series) --> C(Scatter Plot) --> D(Bar Chart) 
+```
+
+
+## A Global Persepctive: 2022
+
+```{r}
+#| fig-cap-location: margin
+#| fig-cap: "The journey begins with a map, **illuminated with regions worldwide**. The map depicts the stats from each *country in the data in 2022*. Each hue tells a story of its own - the **Crimson red** depicting areas with high ART coverage contrast starkly against the **bright yellow** of regions lacking access. With a keen eye, you can identify pockets of need and potential areas for intervention."
+
+map_world <- map_data("world")
+
+data_join <- full_join(unicef_indicator_2, unicef_metadata)
+data_join_2022 <- filter(data_join, year == 2022)
+map_data_join <- full_join(data_join_2022, map_world, by = c("country" = "region"))
+
+ggplot(map_data_join) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  scale_fill_gradient(low = "yellow", high = "red", na.value = "grey") +
+  labs(
+    title = "Differences in % of HIV+ pregnant women receiving ART in 2022",
+    subtitle = "Countries in grey have no data",
+    x = "Longitude",
+    y = "Latitude",
+    fill = "ART Coverage"
+  ) +
+  theme_bw() + 
+  theme_classic()
+```
+
+## Unveiling Progress: A Decade of Insights from 2010 to 2022
+
+
+```{r}
+#| fig-cap-location: margin
+#| fig-cap: Watch, as the story unfolds further through a **time-series analysis**. Follow the line as the progression of **Lifelong ART coverage** for pregnant women living with HIV is unveiled, revealing the impact of interventions and policy changes from 2010 all the way up to 2022, and everything in between. From humble beginnings to remarkable strides, each data point narrates a chapter of progress in the fight against HIV. **Hover** over a line **to highlight** a specific country. Each continent has been given its own specific color
+
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(year) & year != "N/A")
+
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(continent) & continent != "N/A")
+
+time_series_1 <- data_join_all2 %>%
+  ggplot() +
+  aes(year, obs_value, group = country, color = continent) +
+  geom_line() +
+  labs(
+    x = "",
+    y = "% of HIV pregnant women receving ART",
+    title = "Relationship between Fertility Rate, Life Expectancy and Receiving ART"
+  ) +
+  guides(color = "none", size = "none") +
+  theme_classic()
+
+Sys.setlocale("LC_ALL", "C")
+library(plotly)
+plotly_obj <- ggplotly(time_series_1)
+ 
+
+ggplotly(time_series_1)
+```
+
+
+## Exploring Relationships: ART Coverage, Fertility Rate, and Life Expectancy
+
+* The scatter plot containts three data points
+    + Life expectancy
+    + fertility rate
+    + ART coverage
+
+```{r}
+#| fig-cap-location: margin 
+#| fig-cap: Amidst the data *lies a scatterplot*, where individual stories merge into a collective narrative. Here, the correlation between life expectancy and ART coverage is laid bare. Through this lens, and with the help of a **trendline in black**, pattern and disparities can be uncovered. The meniscule upward trend suggests that ART coverage of pregnant has a small effect on the life expectancy of women overall. Use the two filters on the right, to view the data for a certain year or country. Hover over a data point, to highlight all the data from this continent.
+
+  
+
+library(dplyr)
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(year) & year != "N/A")
+
+data_join_all2 <- data_join_all2 %>%
+  filter(!is.na(continent) & continent != "N/A")
+
+scatter_plot <- ggplot(data_join_all2) +
+  aes(fertility_rate, obs_value, color = continent, size = life_expectancy_of_females) +
+  geom_point(size = 3, alpha = 0.5) +
+  facet_wrap(~ year) +
+  geom_smooth(method = "lm", se = FALSE, color = "black") +
+  labs(
+    x = "Fertility rate",
+    y = "% of HIV pregnant women receving ART",
+    title = "Relationship between Fertility Rate, Life Expectancy and Receiving ART"
+    ) +
+  guides(color = "none", size = "none") +
+  theme_classic()
+
+ggplotly(scatter_plot)
+```
+
+## Continental Contrasts: Analyzing ART Coverage Across the Globe
+
+
+```{r}
+#| fig-cap-location: margin
+#| fig-cap: The journey ends with a meticulously curated bar chart, that ***illuminates ART coverage for pregnant women across continents***, providing a comprehensive snapshot of progress in combating HIV transmission. From *Africa's concerted efforts to Asia's evolving strategies*, explore how each continent navigates the challenges of ensuring access to life-saving treatment. **Delve into the data**, analyze trends, and uncover disparities to inform targeted interventions and policy decisions. Join us in the fight against HIV as we strive for equitable healthcare access worldwide.
+
+data_join_all2 %>%
+  group_by(continent, year) %>%
+  summarise(m_obs_value = mean(obs_value, na.rm = TRUE)) %>%
+  ggplot() +
+  aes(reorder(continent, m_obs_value), m_obs_value, fill = continent) +
+  geom_col() +
+  facet_wrap(~ year) +
+  labs(
+    x = "",
+    y = "Avg HIV+ Pregnant Women receiving ART",
+    title = "Evolution of Women receving ART per continent from 2010 to 2022"
+  ) +
+  theme_classic() +
+  theme(axis.text.x = element_blank()) +
+  scale_fill_manual(values = c("red", "yellow", "#9233FF", "#123456", "lightpink"))
+```
+
+## Conclusion 
+
+In Conclusion, this Quarto file vividly illustrates **the progress that has been made** in providing lifelong ART coverage to pregnant women with HIV. *Through the use of visulaisations*, we can see the effect that ART coverage has on pregnant women and the different variables that it affects. Whilst progress has been made, we can still see the disparities across different regions and the need for targeted interventions in these areas.

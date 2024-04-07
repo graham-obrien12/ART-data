@@ -1,0 +1,3303 @@
+country,year,fertility_rate,life_expectancy_of_females
+Afghanistan,2010,6.0987,62.4078
+Afghanistan,2011,5.9581,62.9926
+Afghanistan,2012,5.8302,63.5135
+Afghanistan,2013,5.6962,64.0268
+Afghanistan,2014,5.5595,64.2743
+Afghanistan,2015,5.4052,64.5759
+Afghanistan,2016,5.2618,65.0957
+Afghanistan,2017,5.129,66.0993
+Afghanistan,2018,5.0023,66.4576
+Afghanistan,2019,4.8701,66.677
+Afghanistan,2020,4.7502,65.432
+Afghanistan,2021,4.6434,65.2791
+Afghanistan,2022,4.5235,66.2132
+Albania,2010,1.6564,80.6878
+Albania,2011,1.6713,80.798
+Albania,2012,1.6919,80.7025
+Albania,2013,1.6967,80.7812
+Albania,2014,1.6745,81.0125
+Albania,2015,1.613,81.1825
+Albania,2016,1.5505,81.3771
+Albania,2017,1.4909,81.5045
+Albania,2018,1.4402,81.6079
+Albania,2019,1.4142,81.6658
+Albania,2020,1.3996,79.6756
+Albania,2021,1.3897,79.1726
+Albania,2022,1.3765,79.4717
+Algeria,2010,2.8434,74.8731
+Algeria,2011,2.88,75.2364
+Algeria,2012,2.9557,75.4783
+Algeria,2013,2.9568,75.8399
+Algeria,2014,3.0037,76.4667
+Algeria,2015,3.0414,76.824
+Algeria,2016,3.0506,76.8026
+Algeria,2017,3.0496,76.8212
+Algeria,2018,3.0233,77.2047
+Algeria,2019,2.9881,77.7605
+Algeria,2020,2.9419,75.9125
+Algeria,2021,2.8886,77.9588
+Algeria,2022,2.8293,78.4568
+American Samoa,2010,3.3366,74.2646
+American Samoa,2011,3.2138,74.3013
+American Samoa,2012,3.082,74.5779
+American Samoa,2013,2.9487,74.5769
+American Samoa,2014,2.8332,74.5906
+American Samoa,2015,2.7327,74.8382
+American Samoa,2016,2.6277,74.9699
+American Samoa,2017,2.5176,75.1846
+American Samoa,2018,2.4151,75.1956
+American Samoa,2019,2.3337,75.0959
+American Samoa,2020,2.2973,75.0995
+American Samoa,2021,2.2741,76.5635
+American Samoa,2022,2.2536,75.5408
+Andorra,2010,1.4288,85.4442
+Andorra,2011,1.365,85.4442
+Andorra,2012,1.302,85.4442
+Andorra,2013,1.197,85.4442
+Andorra,2014,1.2552,85.4442
+Andorra,2015,1.3522,85.434
+Andorra,2016,1.3268,85.434
+Andorra,2017,1.2156,85.434
+Andorra,2018,1.1732,85.434
+Andorra,2019,1.1715,85.434
+Andorra,2020,1.1767,83.1922
+Andorra,2021,1.1254,84.3238
+Andorra,2022,1.1351,85.8379
+Angola,2010,6.1938,59.0394
+Angola,2011,6.1196,59.8693
+Angola,2012,6.0388,61.0236
+Angola,2013,5.9532,61.6844
+Angola,2014,5.8643,62.4717
+Angola,2015,5.7744,63.0944
+Angola,2016,5.6857,63.4338
+Angola,2017,5.6001,64.0185
+Angola,2018,5.5187,64.7172
+Angola,2019,5.4423,64.9216
+Angola,2020,5.3711,64.9821
+Angola,2021,5.3044,64.3066
+Angola,2022,5.209,64.5406
+Anguilla,2010,1.6958,81.1676
+Anguilla,2011,1.684,81.4526
+Anguilla,2012,1.6684,81.3222
+Anguilla,2013,1.6489,81.0717
+Anguilla,2014,1.3779,80.9732
+Anguilla,2015,1.3627,80.823
+Anguilla,2016,1.3419,80.6705
+Anguilla,2017,1.3196,79.4694
+Anguilla,2018,1.2956,80.6699
+Anguilla,2019,1.2884,80.7008
+Anguilla,2020,1.277,80.7452
+Anguilla,2021,1.273,80.4502
+Anguilla,2022,1.2782,81.156
+Antigua and Barbuda,2010,1.7854,79.434
+Antigua and Barbuda,2011,1.7455,79.7063
+Antigua and Barbuda,2012,1.6554,79.9614
+Antigua and Barbuda,2013,1.5365,80.2303
+Antigua and Barbuda,2014,1.5265,80.5354
+Antigua and Barbuda,2015,1.5665,80.3888
+Antigua and Barbuda,2016,1.4581,80.6451
+Antigua and Barbuda,2017,1.4847,80.7206
+Antigua and Barbuda,2018,1.3713,81.0003
+Antigua and Barbuda,2019,1.4684,81.1709
+Antigua and Barbuda,2020,1.5694,81.3155
+Antigua and Barbuda,2021,1.5798,80.9411
+Antigua and Barbuda,2022,1.5801,81.6454
+Argentina,2010,2.3462,78.8378
+Argentina,2011,2.3382,79.3224
+Argentina,2012,2.3304,79.9531
+Argentina,2013,2.3218,79.9265
+Argentina,2014,2.3121,80.0035
+Argentina,2015,2.301,80.1877
+Argentina,2016,2.2407,79.67
+Argentina,2017,2.1676,80.085
+Argentina,2018,2.0392,80.3295
+Argentina,2019,1.9938,80.6807
+Argentina,2020,1.9115,79.2846
+Argentina,2021,1.8854,78.6471
+Argentina,2022,1.8755,79.277
+Armenia,2010,1.501,77.4368
+Armenia,2011,1.5,77.7133
+Armenia,2012,1.6004,77.4832
+Armenia,2013,1.6001,77.9127
+Armenia,2014,1.7029,78.4982
+Armenia,2015,1.6018,78.8334
+Armenia,2016,1.6256,79.203
+Armenia,2017,1.5622,79.3806
+Armenia,2018,1.5716,79.6013
+Armenia,2019,1.575,79.8556
+Armenia,2020,1.575,76.9955
+Armenia,2021,1.575,77.35
+Armenia,2022,1.5747,78.4468
+Aruba,2010,1.9412,78.6118
+Aruba,2011,1.9615,78.6199
+Aruba,2012,2.0276,78.6033
+Aruba,2013,2.1166,78.803
+Aruba,2014,2.1484,78.6135
+Aruba,2015,1.9721,78.6436
+Aruba,2016,1.9534,78.4859
+Aruba,2017,1.8393,78.7944
+Aruba,2018,1.5869,78.8542
+Aruba,2019,1.4858,79.0097
+Aruba,2020,1.3252,78.4446
+Aruba,2021,1.1803,77.3153
+Aruba,2022,1.179,77.6813
+Australia,2010,1.9501,84.2336
+Australia,2011,1.9206,84.2919
+Australia,2012,1.9286,84.3471
+Australia,2013,1.8843,84.6751
+Australia,2014,1.8106,84.5438
+Australia,2015,1.8104,84.6734
+Australia,2016,1.7996,84.9119
+Australia,2017,1.7745,84.9855
+Australia,2018,1.7853,85.3889
+Australia,2019,1.67,85.0961
+Australia,2020,1.594,85.7192
+Australia,2021,1.5962,85.8396
+Australia,2022,1.5989,85.4531
+Austria,2010,1.4352,83.1212
+Austria,2011,1.4317,83.427
+Austria,2012,1.4389,83.2843
+Austria,2013,1.438,83.5664
+Austria,2014,1.4634,83.7304
+Austria,2015,1.491,83.5855
+Austria,2016,1.5256,83.9302
+Austria,2017,1.5166,83.8994
+Austria,2018,1.4768,83.9912
+Austria,2019,1.4646,84.1948
+Austria,2020,1.4397,83.9063
+Austria,2021,1.4701,84.084
+Austria,2022,1.4739,84.6001
+Azerbaijan,2010,2.0863,72.8208
+Azerbaijan,2011,2.1293,73.3435
+Azerbaijan,2012,2.1583,73.8326
+Azerbaijan,2013,2.1654,74.2773
+Azerbaijan,2014,2.1563,74.3837
+Azerbaijan,2015,2.1017,74.7881
+Azerbaijan,2016,1.9998,75.5872
+Azerbaijan,2017,1.7521,75.4673
+Azerbaijan,2018,1.7316,75.7084
+Azerbaijan,2019,1.8345,75.8315
+Azerbaijan,2020,1.6838,70.9976
+Azerbaijan,2021,1.6638,73.2871
+Azerbaijan,2022,1.66,76.2494
+Bahamas,2010,1.8347,76.1489
+Bahamas,2011,1.7388,75.7623
+Bahamas,2012,1.7441,75.9225
+Bahamas,2013,1.5101,76.2946
+Bahamas,2014,1.6731,76.639
+Bahamas,2015,1.576,76.3718
+Bahamas,2016,1.4956,76.9382
+Bahamas,2017,1.4263,77.1704
+Bahamas,2018,1.4117,77.3203
+Bahamas,2019,1.3979,73.83
+Bahamas,2020,1.3941,76.2696
+Bahamas,2021,1.3889,75.0957
+Bahamas,2022,1.3803,77.8432
+Bahrain,2010,2.0528,79.9658
+Bahrain,2011,2.0933,80.1095
+Bahrain,2012,2.1608,80.369
+Bahrain,2013,2.1642,80.6464
+Bahrain,2014,2.1583,80.8126
+Bahrain,2015,2.1311,80.8403
+Bahrain,2016,2.0725,81.0328
+Bahrain,2017,2.006,81.1156
+Bahrain,2018,1.9295,81.1948
+Bahrain,2019,1.8574,81.3193
+Bahrain,2020,1.8321,80.4326
+Bahrain,2021,1.811,80.0178
+Bahrain,2022,1.7973,80.497
+Bangladesh,2010,2.3395,70.3117
+Bangladesh,2011,2.262,70.4668
+Bangladesh,2012,2.2095,71.8309
+Bangladesh,2013,2.1845,72.5395
+Bangladesh,2014,2.152,72.42
+Bangladesh,2015,2.1142,72.739
+Bangladesh,2016,2.0971,73.3253
+Bangladesh,2017,2.0427,73.9496
+Bangladesh,2018,2.0395,74.3461
+Bangladesh,2019,2.031,75.0896
+Bangladesh,2020,2.0026,73.9569
+Bangladesh,2021,1.981,74.2672
+Bangladesh,2022,1.9504,76.0122
+Barbados,2010,1.6872,77.6797
+Barbados,2011,1.6647,77.8687
+Barbados,2012,1.6454,78.0313
+Barbados,2013,1.6302,78.2127
+Barbados,2014,1.6198,78.4364
+Barbados,2015,1.6144,78.5907
+Barbados,2016,1.6134,78.7235
+Barbados,2017,1.6154,78.8415
+Barbados,2018,1.6189,78.9579
+Barbados,2019,1.6233,79.1234
+Barbados,2020,1.628,79.2095
+Barbados,2021,1.6327,79.3594
+Barbados,2022,1.6344,79.5806
+Belarus,2010,1.4985,76.9517
+Belarus,2011,1.5228,77.4263
+Belarus,2012,1.6219,77.9778
+Belarus,2013,1.6816,78.0665
+Belarus,2014,1.7104,78.6116
+Belarus,2015,1.7352,78.8086
+Belarus,2016,1.7231,78.9943
+Belarus,2017,1.5503,79.1498
+Belarus,2018,1.4566,79.2822
+Belarus,2019,1.4636,79.375
+Belarus,2020,1.4742,77.8664
+Belarus,2021,1.483,77.6972
+Belarus,2022,1.4946,78.3839
+Belgium,2010,1.8577,82.6218
+Belgium,2011,1.8168,82.865
+Belgium,2012,1.7968,82.8279
+Belgium,2013,1.7571,82.9203
+Belgium,2014,1.7398,83.5112
+Belgium,2015,1.6986,83.1476
+Belgium,2016,1.6835,83.6859
+Belgium,2017,1.6489,83.6504
+Belgium,2018,1.6215,83.6824
+Belgium,2019,1.5871,83.9969
+Belgium,2020,1.5652,83.0499
+Belgium,2021,1.5831,84.2957
+Belgium,2022,1.588,84.3671
+Belize,2010,2.6056,75.3701
+Belize,2011,2.5846,75.6775
+Belize,2012,2.5554,76.1299
+Belize,2013,2.5303,76.2657
+Belize,2014,2.4907,76.3414
+Belize,2015,2.4377,76.4857
+Belize,2016,2.3938,76.6678
+Belize,2017,2.3604,76.8448
+Belize,2018,2.3447,77.0211
+Belize,2019,2.1058,77.2467
+Belize,2020,1.9986,76.6257
+Belize,2021,2.0104,74.3322
+Belize,2022,1.9891,74.6853
+Benin,2010,5.3897,59.6804
+Benin,2011,5.3659,59.7333
+Benin,2012,5.3466,59.7752
+Benin,2013,5.3447,60.213
+Benin,2014,5.3484,60.2653
+Benin,2015,5.3193,60.6819
+Benin,2016,5.3026,60.7311
+Benin,2017,5.2693,61.1986
+Benin,2018,5.1995,61.3536
+Benin,2019,5.1299,61.8575
+Benin,2020,5.0479,61.4848
+Benin,2021,4.9731,61.4449
+Benin,2022,4.8953,61.6761
+Bermuda,2010,1.74,85.2885
+Bermuda,2011,1.57,85.6875
+Bermuda,2012,1.57,85.8547
+Bermuda,2013,1.59,84.0624
+Bermuda,2014,1.42,82.7529
+Bermuda,2015,1.44,85.7576
+Bermuda,2016,1.44,85.3495
+Bermuda,2017,1.4,85.418
+Bermuda,2018,1.3065,83.9812
+Bermuda,2019,1.3324,84.1782
+Bermuda,2020,1.3735,84.2725
+Bermuda,2021,1.3631,82.7079
+Bermuda,2022,1.3674,84.5067
+Bhutan,2010,2.2959,70.0921
+Bhutan,2011,2.2097,70.6282
+Bhutan,2012,2.1377,71.0908
+Bhutan,2013,2.0875,71.4505
+Bhutan,2014,2.0272,71.7976
+Bhutan,2015,1.9571,72.0717
+Bhutan,2016,1.8352,72.317
+Bhutan,2017,1.704,72.5756
+Bhutan,2018,1.5695,72.9144
+Bhutan,2019,1.4601,73.2361
+Bhutan,2020,1.4326,73.5361
+Bhutan,2021,1.4132,73.7734
+Bhutan,2022,1.3977,74.1516
+Bolivia ,2010,3.2132,68.6882
+Bolivia ,2011,3.1433,69.0885
+Bolivia ,2012,3.0759,69.3124
+Bolivia ,2013,3.0103,69.6628
+Bolivia ,2014,2.9467,69.771
+Bolivia ,2015,2.886,69.9111
+Bolivia ,2016,2.8291,70.2591
+Bolivia ,2017,2.777,70.3472
+Bolivia ,2018,2.73,70.3834
+Bolivia ,2019,2.6882,70.4753
+Bolivia ,2020,2.6511,67.8408
+Bolivia ,2021,2.6178,66.7999
+Bolivia ,2022,2.5839,67.9072
+"Bonaire, Sint Eustatius and Saba",2010,1.7202,78.3284
+"Bonaire, Sint Eustatius and Saba",2011,1.7036,79.586
+"Bonaire, Sint Eustatius and Saba",2012,1.6864,78.0439
+"Bonaire, Sint Eustatius and Saba",2013,1.6724,78.3748
+"Bonaire, Sint Eustatius and Saba",2014,1.66,79.4361
+"Bonaire, Sint Eustatius and Saba",2015,1.6545,79.8145
+"Bonaire, Sint Eustatius and Saba",2016,1.6453,77.9687
+"Bonaire, Sint Eustatius and Saba",2017,1.6449,79.9607
+"Bonaire, Sint Eustatius and Saba",2018,1.6409,78.229
+"Bonaire, Sint Eustatius and Saba",2019,1.6438,79.2003
+"Bonaire, Sint Eustatius and Saba",2020,1.6492,78.6688
+"Bonaire, Sint Eustatius and Saba",2021,1.6581,77.868
+"Bonaire, Sint Eustatius and Saba",2022,1.6473,78.2229
+Bosnia and Herzegovina,2010,1.2758,79.6524
+Bosnia and Herzegovina,2011,1.2163,79.3823
+Bosnia and Herzegovina,2012,1.2903,79.8673
+Bosnia and Herzegovina,2013,1.2756,78.6242
+Bosnia and Herzegovina,2014,1.2623,77.709
+Bosnia and Herzegovina,2015,1.289,78.1116
+Bosnia and Herzegovina,2016,1.324,78.7683
+Bosnia and Herzegovina,2017,1.3547,78.9581
+Bosnia and Herzegovina,2018,1.384,79.0933
+Bosnia and Herzegovina,2019,1.3685,79.2198
+Bosnia and Herzegovina,2020,1.3587,78.4142
+Bosnia and Herzegovina,2021,1.3498,77.5302
+Bosnia and Herzegovina,2022,1.3458,77.4978
+Botswana,2010,3.023,61.8287
+Botswana,2011,2.9993,62.8155
+Botswana,2012,2.9809,62.9281
+Botswana,2013,2.9638,64.6371
+Botswana,2014,2.9506,65.3905
+Botswana,2015,2.9423,66.2836
+Botswana,2016,2.9297,68.0593
+Botswana,2017,2.91,69.4282
+Botswana,2018,2.9028,67.3709
+Botswana,2019,2.8834,67.8913
+Botswana,2020,2.8357,68.0513
+Botswana,2021,2.7914,63.5942
+Botswana,2022,2.7544,68.399
+Brazil,2010,1.8102,76.5924
+Brazil,2011,1.7998,76.6512
+Brazil,2012,1.7669,76.8691
+Brazil,2013,1.7481,77.1195
+Brazil,2014,1.7673,77.4319
+Brazil,2015,1.7772,77.5719
+Brazil,2016,1.7085,77.8481
+Brazil,2017,1.7362,78.0322
+Brazil,2018,1.7485,78.2655
+Brazil,2019,1.7026,78.4695
+Brazil,2020,1.649,77.3747
+Brazil,2021,1.6406,76.0086
+Brazil,2022,1.6264,76.5961
+British Virgin Islands,2010,1.1833,78.1869
+British Virgin Islands,2011,1.2694,78.2698
+British Virgin Islands,2012,1.1031,78.3306
+British Virgin Islands,2013,1.08,78.4234
+British Virgin Islands,2014,1.2372,78.4801
+British Virgin Islands,2015,1.1865,78.582
+British Virgin Islands,2016,0.9871,78.6443
+British Virgin Islands,2017,0.8717,77.4159
+British Virgin Islands,2018,0.9166,78.7675
+British Virgin Islands,2019,0.948,78.804
+British Virgin Islands,2020,0.9762,78.763
+British Virgin Islands,2021,1.0052,77.457
+British Virgin Islands,2022,1.0154,79.2559
+Brunei Darussalam,2010,1.9366,77.1421
+Brunei Darussalam,2011,1.957,77.1264
+Brunei Darussalam,2012,1.9729,77.0958
+Brunei Darussalam,2013,1.9778,77.0564
+Brunei Darussalam,2014,1.969,77.0414
+Brunei Darussalam,2015,1.9471,77.0011
+Brunei Darussalam,2016,1.9154,76.9776
+Brunei Darussalam,2017,1.8805,76.9627
+Brunei Darussalam,2018,1.8479,76.956
+Brunei Darussalam,2019,1.8195,76.9859
+Brunei Darussalam,2020,1.7962,77.033
+Brunei Darussalam,2021,1.7779,76.8812
+Brunei Darussalam,2022,1.7644,76.7914
+Bulgaria,2010,1.5711,77.3514
+Bulgaria,2011,1.5126,77.7213
+Bulgaria,2012,1.4994,77.8714
+Bulgaria,2013,1.486,78.4811
+Bulgaria,2014,1.5313,77.972
+Bulgaria,2015,1.5345,78.1266
+Bulgaria,2016,1.5449,78.4684
+Bulgaria,2017,1.5585,78.3417
+Bulgaria,2018,1.5584,78.3804
+Bulgaria,2019,1.5751,78.6305
+Bulgaria,2020,1.5809,77.5077
+Bulgaria,2021,1.586,75.4824
+Bulgaria,2022,1.59,75.0797
+Burkina Faso,2010,5.9356,57.888
+Burkina Faso,2011,5.8689,58.6159
+Burkina Faso,2012,5.7929,59.0963
+Burkina Faso,2013,5.6968,59.2619
+Burkina Faso,2014,5.5946,59.8842
+Burkina Faso,2015,5.4777,60.4013
+Burkina Faso,2016,5.3236,60.9267
+Burkina Faso,2017,5.1621,61.1776
+Burkina Faso,2018,5.0693,61.7065
+Burkina Faso,2019,4.971,61.8222
+Burkina Faso,2020,4.8693,61.5981
+Burkina Faso,2021,4.7718,60.9896
+Burkina Faso,2022,4.6655,61.5048
+Burundi,2010,6.2599,58.3975
+Burundi,2011,6.1081,59.0937
+Burundi,2012,5.9909,59.8521
+Burundi,2013,5.8887,60.6489
+Burundi,2014,5.7945,61.3455
+Burundi,2015,5.6951,62.1981
+Burundi,2016,5.5865,62.4581
+Burundi,2017,5.4814,63.3023
+Burundi,2018,5.38,63.5237
+Burundi,2019,5.2713,64.3471
+Burundi,2020,5.1766,63.675
+Burundi,2021,5.0779,63.6092
+Burundi,2022,4.9803,63.8678
+Cabo Verde,2010,2.4737,78.0689
+Cabo Verde,2011,2.4708,78.7419
+Cabo Verde,2012,2.2822,78.162
+Cabo Verde,2013,2.1981,79.4694
+Cabo Verde,2014,2.1704,79.6319
+Cabo Verde,2015,2.1174,79.0367
+Cabo Verde,2016,2.1231,80.0195
+Cabo Verde,2017,2.0911,80.6937
+Cabo Verde,2018,1.9644,79.8746
+Cabo Verde,2019,1.9322,80.1827
+Cabo Verde,2020,1.9079,79.1604
+Cabo Verde,2021,1.8956,78.4572
+Cabo Verde,2022,1.8789,79.0115
+Cambodia,2010,2.7736,69.8343
+Cambodia,2011,2.7012,70.726
+Cambodia,2012,2.6639,71.0263
+Cambodia,2013,2.6196,71.6647
+Cambodia,2014,2.5892,71.8814
+Cambodia,2015,2.5497,72.0202
+Cambodia,2016,2.512,72.6662
+Cambodia,2017,2.4732,72.6887
+Cambodia,2018,2.4348,72.7776
+Cambodia,2019,2.4019,72.8727
+Cambodia,2020,2.3814,72.7242
+Cambodia,2021,2.3438,72.2907
+Cambodia,2022,2.3223,72.6221
+Cameroon,2010,5.1601,57.9714
+Cameroon,2011,5.0584,58.4891
+Cameroon,2012,4.9889,59.1611
+Cameroon,2013,4.914,59.8505
+Cameroon,2014,4.8545,60.4332
+Cameroon,2015,4.8324,61.2064
+Cameroon,2016,4.8177,61.5993
+Cameroon,2017,4.7736,62.1633
+Cameroon,2018,4.6938,62.7827
+Cameroon,2019,4.6226,62.9959
+Cameroon,2020,4.5432,62.633
+Cameroon,2021,4.4633,62.0182
+Cameroon,2022,4.3831,62.5557
+Canada,2010,1.6296,83.4572
+Canada,2011,1.615,83.597
+Canada,2012,1.6164,83.7581
+Canada,2013,1.593,83.7996
+Canada,2014,1.5912,83.8899
+Canada,2015,1.5542,83.9115
+Canada,2016,1.5398,84.053
+Canada,2017,1.5413,84.1032
+Canada,2018,1.4996,84.095
+Canada,2019,1.4517,84.4187
+Canada,2020,1.458,84.1036
+Canada,2021,1.4635,84.6711
+Canada,2022,1.4663,84.7966
+Cayman Islands,2010,1.7528,78.7675
+Cayman Islands,2011,1.6386,77.8142
+Cayman Islands,2012,1.5536,77.6226
+Cayman Islands,2013,1.4052,77.4802
+Cayman Islands,2014,1.3941,77.3606
+Cayman Islands,2015,1.2011,77.3286
+Cayman Islands,2016,1.2046,77.369
+Cayman Islands,2017,1.1182,77.4237
+Cayman Islands,2018,1.1589,77.4987
+Cayman Islands,2019,1.2156,77.6072
+Cayman Islands,2020,1.4671,77.7132
+Cayman Islands,2021,1.2191,77.7813
+Cayman Islands,2022,1.2158,78.1236
+Central African Republic,2010,5.9365,50.5341
+Central African Republic,2011,5.9626,51.1672
+Central African Republic,2012,6.0056,52.0587
+Central African Republic,2013,6.017,52.727
+Central African Republic,2014,6.024,52.9032
+Central African Republic,2015,6.035,54.5123
+Central African Republic,2016,6.04,55.39
+Central African Republic,2017,6.0476,56.051
+Central African Republic,2018,6.0367,56.5872
+Central African Republic,2019,6.0081,57.1057
+Central African Republic,2020,5.9855,56.7567
+Central African Republic,2021,5.9783,56.3035
+Central African Republic,2022,5.9175,56.8294
+Chad,2010,6.99,50.7976
+Chad,2011,6.9481,51.2788
+Chad,2012,6.9055,51.8486
+Chad,2013,6.8387,52.1595
+Chad,2014,6.7808,52.6305
+Chad,2015,6.7065,53.1317
+Chad,2016,6.6234,53.317
+Chad,2017,6.5371,53.7517
+Chad,2018,6.4638,54.3168
+Chad,2019,6.4118,54.9076
+Chad,2020,6.3464,54.3961
+Chad,2021,6.2549,54.2828
+Chad,2022,6.2152,54.7691
+Chile,2010,1.8441,81.2127
+Chile,2011,1.8226,81.6841
+Chile,2012,1.798,81.5956
+Chile,2013,1.7859,82.0335
+Chile,2014,1.7745,82.1452
+Chile,2015,1.7373,82.3839
+Chile,2016,1.6756,82.57
+Chile,2017,1.5978,82.6012
+Chile,2018,1.5637,82.5267
+Chile,2019,1.5452,82.7112
+Chile,2020,1.5371,82.0406
+Chile,2021,1.5375,81.4368
+Chile,2022,1.5391,81.8775
+China,2010,1.6865,78.3255
+China,2011,1.6683,78.644
+China,2012,1.7984,78.9832
+China,2013,1.714,79.223
+China,2014,1.7694,79.4993
+China,2015,1.6696,79.772
+China,2016,1.7719,80.053
+China,2017,1.8135,80.3206
+China,2018,1.5542,80.6373
+China,2019,1.4961,80.8156
+China,2020,1.2805,81.0584
+China,2021,1.164,81.1546
+China,2022,1.1755,81.3425
+"China, Hong Kong Special Administrative Region",2010,1.1184,85.9442
+"China, Hong Kong Special Administrative Region",2011,1.1326,86.1828
+"China, Hong Kong Special Administrative Region",2012,1.2028,86.5122
+"China, Hong Kong Special Administrative Region",2013,1.2698,86.7536
+"China, Hong Kong Special Administrative Region",2014,1.2002,86.9715
+"China, Hong Kong Special Administrative Region",2015,1.2272,87.1518
+"China, Hong Kong Special Administrative Region",2016,1.2053,87.4951
+"China, Hong Kong Special Administrative Region",2017,1.1298,87.9349
+"China, Hong Kong Special Administrative Region",2018,1.0747,88.3202
+"China, Hong Kong Special Administrative Region",2019,1.0342,88.1288
+"China, Hong Kong Special Administrative Region",2020,0.87,88.2818
+"China, Hong Kong Special Administrative Region",2021,0.7455,88.3257
+"China, Hong Kong Special Administrative Region",2022,0.7555,86.8931
+"China, Macao Special Administrative Region",2010,1.0423,86.1639
+"China, Macao Special Administrative Region",2011,1.1154,86.292
+"China, Macao Special Administrative Region",2012,1.1838,86.3406
+"China, Macao Special Administrative Region",2013,1.1987,86.8309
+"China, Macao Special Administrative Region",2014,1.2237,86.7733
+"China, Macao Special Administrative Region",2015,1.1964,86.7839
+"China, Macao Special Administrative Region",2016,1.1746,87.0178
+"China, Macao Special Administrative Region",2017,1.1228,87.0939
+"China, Macao Special Administrative Region",2018,1.1035,87.439
+"China, Macao Special Administrative Region",2019,1.077,87.5725
+"China, Macao Special Administrative Region",2020,1.0717,87.7706
+"China, Macao Special Administrative Region",2021,1.0883,87.9478
+"China, Macao Special Administrative Region",2022,1.1093,87.9796
+"China, Taiwan Province of China",2010,0.9142,82.5886
+"China, Taiwan Province of China",2011,1.0313,82.5684
+"China, Taiwan Province of China",2012,1.1345,82.6561
+"China, Taiwan Province of China",2013,1.124,83.1437
+"China, Taiwan Province of China",2014,1.1563,83.0287
+"China, Taiwan Province of China",2015,1.1674,83.4412
+"China, Taiwan Province of China",2016,1.1575,83.3303
+"China, Taiwan Province of China",2017,1.1259,83.5987
+"China, Taiwan Province of China",2018,1.0977,84.0015
+"China, Taiwan Province of China",2019,1.0871,84.1058
+"China, Taiwan Province of China",2020,1.1001,84.3031
+"China, Taiwan Province of China",2021,1.1144,84.4422
+"China, Taiwan Province of China",2022,1.1324,84.539
+Colombia,2010,1.9918,78.3011
+Colombia,2011,1.958,78.5479
+Colombia,2012,1.9297,78.7871
+Colombia,2013,1.9049,78.9723
+Colombia,2014,1.883,79.1389
+Colombia,2015,1.8627,79.2916
+Colombia,2016,1.8435,79.4398
+Colombia,2017,1.8178,79.5348
+Colombia,2018,1.7868,79.6597
+Colombia,2019,1.765,79.721
+Colombia,2020,1.7369,78.1362
+Colombia,2021,1.7168,76.4421
+Colombia,2022,1.6922,77.1432
+Comoros,2010,4.7588,63.0603
+Comoros,2011,4.7211,63.6079
+Comoros,2012,4.641,63.8007
+Comoros,2013,4.5685,64.3928
+Comoros,2014,4.4924,64.5497
+Comoros,2015,4.4179,65.1633
+Comoros,2016,4.3478,65.341
+Comoros,2017,4.2784,65.9864
+Comoros,2018,4.196,66.1951
+Comoros,2019,4.1248,66.3058
+Comoros,2020,4.0522,66.5928
+Comoros,2021,3.9777,65.8272
+Comoros,2022,3.9116,66.0613
+Congo,2010,4.8222,62.7747
+Congo,2011,4.791,63.1353
+Congo,2012,4.7497,63.3254
+Congo,2013,4.6905,63.9978
+Congo,2014,4.6257,64.2414
+Congo,2015,4.5644,64.3141
+Congo,2016,4.487,64.9751
+Congo,2017,4.4328,65.1347
+Congo,2018,4.367,65.2667
+Congo,2019,4.2964,64.1647
+Congo,2020,4.234,65.3969
+Congo,2021,4.1707,64.9346
+Congo,2022,4.095,64.617
+Cook Islands,2010,2.6254,77.8144
+Cook Islands,2011,2.6012,77.9315
+Cook Islands,2012,2.5543,78.0248
+Cook Islands,2013,2.5119,78.1153
+Cook Islands,2014,2.4678,78.197
+Cook Islands,2015,2.434,78.2829
+Cook Islands,2016,2.4038,78.3598
+Cook Islands,2017,2.3699,78.4373
+Cook Islands,2018,2.3319,78.525
+Cook Islands,2019,2.3007,78.5904
+Cook Islands,2020,2.2754,78.6628
+Cook Islands,2021,2.2449,78.7867
+Cook Islands,2022,2.2256,79.0355
+Costa Rica,2010,1.9276,81.0832
+Costa Rica,2011,1.9023,81.7106
+Costa Rica,2012,1.8758,81.6199
+Costa Rica,2013,1.8379,81.7624
+Costa Rica,2014,1.8187,81.2361
+Costa Rica,2015,1.7896,81.5686
+Costa Rica,2016,1.7539,82.0082
+Costa Rica,2017,1.7404,81.7602
+Costa Rica,2018,1.7089,82.0831
+Costa Rica,2019,1.6319,81.9525
+Costa Rica,2020,1.5552,81.9122
+Costa Rica,2021,1.5335,79.8106
+Costa Rica,2022,1.5225,80.0359
+Croatia,2010,1.5456,79.9524
+Croatia,2011,1.4864,80.3253
+Croatia,2012,1.5083,80.5285
+Croatia,2013,1.461,80.9556
+Croatia,2014,1.454,80.952
+Croatia,2015,1.4025,80.5443
+Croatia,2016,1.4208,81.2118
+Croatia,2017,1.4223,80.9466
+Croatia,2018,1.4663,81.3336
+Croatia,2019,1.468,81.573
+Croatia,2020,1.4624,80.9099
+Croatia,2021,1.4518,81.0549
+Croatia,2022,1.4454,82.0004
+Cuba,2010,1.6925,79.9899
+Cuba,2011,1.7563,80.0634
+Cuba,2012,1.6813,80.1224
+Cuba,2013,1.6878,80.1573
+Cuba,2014,1.663,80.1661
+Cuba,2015,1.6942,80.1479
+Cuba,2016,1.609,80.1105
+Cuba,2017,1.5933,80.0708
+Cuba,2018,1.6311,80.0507
+Cuba,2019,1.5506,80.0747
+Cuba,2020,1.5004,80.2255
+Cuba,2021,1.4419,76.3585
+Cuba,2022,1.4487,80.5647
+Curaçao,2010,2.1919,77.9885
+Curaçao,2011,2.1093,78.5898
+Curaçao,2012,2.1934,78.6594
+Curaçao,2013,2.1015,79.3671
+Curaçao,2014,2.0013,79.4374
+Curaçao,2015,1.8962,79.8221
+Curaçao,2016,1.6996,79.8397
+Curaçao,2017,1.5261,79.8579
+Curaçao,2018,1.6473,79.8235
+Curaçao,2019,1.6618,79.8628
+Curaçao,2020,1.654,79.8524
+Curaçao,2021,1.6509,79.1361
+Curaçao,2022,1.6467,80.2766
+Cyprus,2010,1.438,82.0482
+Cyprus,2011,1.3596,82.3357
+Cyprus,2012,1.3859,82.1495
+Cyprus,2013,1.3053,82.4051
+Cyprus,2014,1.3154,82.7229
+Cyprus,2015,1.3257,82.8731
+Cyprus,2016,1.3598,83.1852
+Cyprus,2017,1.3224,83.4151
+Cyprus,2018,1.3202,83.058
+Cyprus,2019,1.3322,83.2698
+Cyprus,2020,1.328,83.4484
+Cyprus,2021,1.3208,83.2037
+Cyprus,2022,1.3106,83.673
+Czechia,2010,1.5091,80.6497
+Czechia,2011,1.4334,80.8612
+Czechia,2012,1.4519,80.9855
+Czechia,2013,1.4591,81.1543
+Czechia,2014,1.5266,81.7278
+Czechia,2015,1.5703,81.4724
+Czechia,2016,1.6292,81.8738
+Czechia,2017,1.6833,81.862
+Czechia,2018,1.7071,81.9033
+Czechia,2019,1.7096,82.1055
+Czechia,2020,1.7063,81.5409
+Czechia,2021,1.6986,80.8885
+Czechia,2022,1.6984,81.2199
+Côte d'Ivoire,2010,5.088,56.2125
+Côte d'Ivoire,2011,5.0292,56.7469
+Côte d'Ivoire,2012,4.9736,57.3392
+Côte d'Ivoire,2013,4.9197,58.0237
+Côte d'Ivoire,2014,4.8665,58.2631
+Côte d'Ivoire,2015,4.8132,58.9473
+Côte d'Ivoire,2016,4.7591,59.0692
+Côte d'Ivoire,2017,4.7416,59.7231
+Côte d'Ivoire,2018,4.6108,59.9402
+Côte d'Ivoire,2019,4.5381,60.5897
+Côte d'Ivoire,2020,4.4718,60.3507
+Côte d'Ivoire,2021,4.418,59.9409
+Côte d'Ivoire,2022,4.3419,60.2825
+Democratic People's Republic of Korea,2010,1.8095,73.5346
+Democratic People's Republic of Korea,2011,1.8106,74.0584
+Democratic People's Republic of Korea,2012,1.836,74.634
+Democratic People's Republic of Korea,2013,1.8598,75.294
+Democratic People's Republic of Korea,2014,1.8848,75.8592
+Democratic People's Republic of Korea,2015,1.8842,75.5149
+Democratic People's Republic of Korea,2016,1.8703,75.5145
+Democratic People's Republic of Korea,2017,1.8574,75.6235
+Democratic People's Republic of Korea,2018,1.8453,75.6325
+Democratic People's Republic of Korea,2019,1.84,75.6997
+Democratic People's Republic of Korea,2020,1.8179,75.7252
+Democratic People's Republic of Korea,2021,1.809,75.7426
+Democratic People's Republic of Korea,2022,1.7926,76.1461
+Democratic Republic of the Congo,2010,6.5868,57.9991
+Democratic Republic of the Congo,2011,6.5823,58.6584
+Democratic Republic of the Congo,2012,6.559,58.8102
+Democratic Republic of the Congo,2013,6.5268,59.4394
+Democratic Republic of the Congo,2014,6.4826,60.0125
+Democratic Republic of the Congo,2015,6.437,60.2544
+Democratic Republic of the Congo,2016,6.392,60.9039
+Democratic Republic of the Congo,2017,6.3485,61.1074
+Democratic Republic of the Congo,2018,6.3018,61.767
+Democratic Republic of the Congo,2019,6.2525,62.2433
+Democratic Republic of the Congo,2020,6.2057,61.7001
+Democratic Republic of the Congo,2021,6.1564,61.5207
+Democratic Republic of the Congo,2022,6.1061,62.0504
+Denmark,2010,1.8602,81.3357
+Denmark,2011,1.7558,81.8215
+Denmark,2012,1.7247,82.037
+Denmark,2013,1.6633,82.3003
+Denmark,2014,1.6894,82.66
+Denmark,2015,1.7148,82.6796
+Denmark,2016,1.7773,82.7881
+Denmark,2017,1.7469,83.1207
+Denmark,2018,1.7277,82.9553
+Denmark,2019,1.7004,83.4234
+Denmark,2020,1.6991,83.5019
+Denmark,2021,1.7187,83.2762
+Denmark,2022,1.719,83.8019
+Djibouti,2010,3.3903,62.267
+Djibouti,2011,3.3053,62.4086
+Djibouti,2012,3.237,63.0833
+Djibouti,2013,3.1782,63.2255
+Djibouti,2014,3.1124,64.0911
+Djibouti,2015,3.0661,64.2987
+Djibouti,2016,3.0106,64.52
+Djibouti,2017,2.9724,65.3365
+Djibouti,2018,2.9289,65.5827
+Djibouti,2019,2.8915,65.5629
+Djibouti,2020,2.8484,65.4611
+Djibouti,2021,2.8041,65.0189
+Djibouti,2022,2.757,65.5027
+Dominica,2010,1.9146,74.8889
+Dominica,2011,1.8713,72.9735
+Dominica,2012,1.8242,73.2151
+Dominica,2013,1.7717,71.3096
+Dominica,2014,1.7337,72.1177
+Dominica,2015,1.6942,71.0817
+Dominica,2016,1.6568,73.0191
+Dominica,2017,1.629,69.6472
+Dominica,2018,1.6165,77.2471
+Dominica,2019,1.6106,77.2054
+Dominica,2020,1.5971,77.2597
+Dominica,2021,1.5949,76.3013
+Dominica,2022,1.588,76.4515
+Dominican Republic,2010,2.5385,75.6597
+Dominican Republic,2011,2.5134,75.8556
+Dominican Republic,2012,2.4851,76.1656
+Dominican Republic,2013,2.4662,76.3222
+Dominican Republic,2014,2.445,76.3961
+Dominican Republic,2015,2.43,76.3773
+Dominican Republic,2016,2.4055,76.304
+Dominican Republic,2017,2.3905,76.3186
+Dominican Republic,2018,2.3812,76.4995
+Dominican Republic,2019,2.3441,76.9649
+Dominican Republic,2020,2.3031,76.9139
+Dominican Republic,2021,2.2727,76.2914
+Dominican Republic,2022,2.2474,77.5363
+East Asia and Pacific,2010,1.883,77.723
+East Asia and Pacific,2011,1.878,77.967
+East Asia and Pacific,2012,1.964,78.275
+East Asia and Pacific,2013,1.906,78.552
+East Asia and Pacific,2014,1.933,78.817
+East Asia and Pacific,2015,1.863,79.041
+East Asia and Pacific,2016,1.914,79.286
+East Asia and Pacific,2017,1.924,79.502
+East Asia and Pacific,2018,1.759,79.781
+East Asia and Pacific,2019,1.717,79.933
+East Asia and Pacific,2020,1.586,79.92
+East Asia and Pacific,2021,1.516,79.5
+East Asia and Pacific,2022,1.522,80.005
+East Asia and Pacific,2010,1.911,76.508
+East Asia and Pacific,2011,1.905,76.801
+East Asia and Pacific,2012,1.996,77.113
+East Asia and Pacific,2013,1.935,77.391
+East Asia and Pacific,2014,1.966,77.66
+East Asia and Pacific,2015,1.892,77.894
+East Asia and Pacific,2016,1.951,78.151
+East Asia and Pacific,2017,1.97,78.383
+East Asia and Pacific,2018,1.796,78.686
+East Asia and Pacific,2019,1.757,78.852
+East Asia and Pacific,2020,1.617,78.808
+East Asia and Pacific,2021,1.542,78.38
+East Asia and Pacific,2022,1.548,78.927
+Eastern Europe and Central Asia,2010,1.879,75.412
+Eastern Europe and Central Asia,2011,1.895,76.005
+Eastern Europe and Central Asia,2012,1.946,76.29
+Eastern Europe and Central Asia,2013,1.973,76.655
+Eastern Europe and Central Asia,2014,2.018,77.029
+Eastern Europe and Central Asia,2015,2.034,77.358
+Eastern Europe and Central Asia,2016,2.025,77.772
+Eastern Europe and Central Asia,2017,1.947,78.173
+Eastern Europe and Central Asia,2018,1.932,78.297
+Eastern Europe and Central Asia,2019,1.897,78.541
+Eastern Europe and Central Asia,2020,1.9,76.66
+Eastern Europe and Central Asia,2021,1.89,75.805
+Eastern Europe and Central Asia,2022,1.887,76.121
+Eastern and Southern Africa,2010,4.824,60.412
+Eastern and Southern Africa,2011,4.735,61.465
+Eastern and Southern Africa,2012,4.64,62.503
+Eastern and Southern Africa,2013,4.562,63.338
+Eastern and Southern Africa,2014,4.487,64.096
+Eastern and Southern Africa,2015,4.423,64.699
+Eastern and Southern Africa,2016,4.352,65.403
+Eastern and Southern Africa,2017,4.309,65.897
+Eastern and Southern Africa,2018,4.268,66.427
+Eastern and Southern Africa,2019,4.222,66.831
+Eastern and Southern Africa,2020,4.153,66.378
+Eastern and Southern Africa,2021,4.089,65.375
+Eastern and Southern Africa,2022,4.021,65.707
+Eastern and Southern Africa,2010,4.824,59.977
+Eastern and Southern Africa,2011,4.732,61.088
+Eastern and Southern Africa,2012,4.634,62.158
+Eastern and Southern Africa,2013,4.549,63.043
+Eastern and Southern Africa,2014,4.467,63.811
+Eastern and Southern Africa,2015,4.398,64.449
+Eastern and Southern Africa,2016,4.327,65.199
+Eastern and Southern Africa,2017,4.285,65.686
+Eastern and Southern Africa,2018,4.245,66.241
+Eastern and Southern Africa,2019,4.2,66.663
+Eastern and Southern Africa,2020,4.131,66.188
+Eastern and Southern Africa,2021,4.068,65.137
+Eastern and Southern Africa,2022,4,65.471
+Ecuador,2010,2.6148,78.4876
+Ecuador,2011,2.5964,78.6754
+Ecuador,2012,2.5169,78.8422
+Ecuador,2013,2.4195,78.9974
+Ecuador,2014,2.3348,79.1243
+Ecuador,2015,2.2599,79.2086
+Ecuador,2016,2.201,79.1373
+Ecuador,2017,2.1736,79.3952
+Ecuador,2018,2.1329,79.6038
+Ecuador,2019,2.0876,79.953
+Ecuador,2020,2.0508,76.0557
+Ecuador,2021,2.0256,77.4619
+Ecuador,2022,2.0034,80.4808
+Egypt,2010,3.2127,72.3184
+Egypt,2011,3.247,72.6053
+Egypt,2012,3.3348,72.7445
+Egypt,2013,3.419,72.8198
+Egypt,2014,3.4414,73.1632
+Egypt,2015,3.4364,73.0807
+Egypt,2016,3.2026,73.5516
+Egypt,2017,3.1513,73.9739
+Egypt,2018,3.0983,73.9273
+Egypt,2019,3.0009,73.711
+Egypt,2020,2.9602,73.3897
+Egypt,2021,2.9174,72.6077
+Egypt,2022,2.8776,72.5566
+El Salvador,2010,2.2394,76.2132
+El Salvador,2011,2.2241,76.1894
+El Salvador,2012,2.187,76.163
+El Salvador,2013,2.1545,76.1583
+El Salvador,2014,2.1261,76.2671
+El Salvador,2015,2.0669,76.5716
+El Salvador,2016,1.9652,77.0754
+El Salvador,2017,1.8965,77.4936
+El Salvador,2018,1.849,77.4882
+El Salvador,2019,1.8383,76.7759
+El Salvador,2020,1.819,75.413
+El Salvador,2021,1.8031,75.1492
+El Salvador,2022,1.7848,75.8127
+Equatorial Guinea,2010,5.2088,59.5834
+Equatorial Guinea,2011,5.1257,60.1722
+Equatorial Guinea,2012,5.0396,60.6467
+Equatorial Guinea,2013,4.9518,60.9858
+Equatorial Guinea,2014,4.863,61.4518
+Equatorial Guinea,2015,4.7743,62.0543
+Equatorial Guinea,2016,4.6862,62.3319
+Equatorial Guinea,2017,4.5989,62.832
+Equatorial Guinea,2018,4.5129,63.0419
+Equatorial Guinea,2019,4.4286,63.5396
+Equatorial Guinea,2020,4.3463,62.9432
+Equatorial Guinea,2021,4.266,62.7256
+Equatorial Guinea,2022,4.1696,63.2614
+Eritrea,2010,4.5708,65.5469
+Eritrea,2011,4.4863,66.3298
+Eritrea,2012,4.4069,66.6584
+Eritrea,2013,4.3355,66.8958
+Eritrea,2014,4.2726,67.5885
+Eritrea,2015,4.2165,67.9805
+Eritrea,2016,4.1644,68.3
+Eritrea,2017,4.112,68.5302
+Eritrea,2018,4.0564,69.1147
+Eritrea,2019,3.9969,69.3088
+Eritrea,2020,3.9334,69.3372
+Eritrea,2021,3.8674,68.6547
+Eritrea,2022,3.7858,68.6785
+Estonia,2010,1.7135,80.4377
+Estonia,2011,1.6163,81.0217
+Estonia,2012,1.5615,81.141
+Estonia,2013,1.5251,81.2604
+Estonia,2014,1.5398,81.4457
+Estonia,2015,1.5771,81.7281
+Estonia,2016,1.6026,81.9893
+Estonia,2017,1.5969,81.9987
+Estonia,2018,1.6674,82.124
+Estonia,2019,1.6727,82.5955
+Estonia,2020,1.677,82.2559
+Estonia,2021,1.6761,81.2311
+Estonia,2022,1.6761,82.9865
+Eswatini,2010,3.3561,48.3063
+Eswatini,2011,3.2992,50.1814
+Eswatini,2012,3.2553,52.0196
+Eswatini,2013,3.2257,53.9847
+Eswatini,2014,3.174,55.917
+Eswatini,2015,3.1169,58.1279
+Eswatini,2016,3.0683,60.0305
+Eswatini,2017,3.0148,61.5431
+Eswatini,2018,2.9625,63.1694
+Eswatini,2019,2.9212,64.3534
+Eswatini,2020,2.8896,63.6776
+Eswatini,2021,2.8395,61.2485
+Eswatini,2022,2.7854,60.5988
+Ethiopia,2010,5.2168,61.8489
+Ethiopia,2011,5.05,62.874
+Ethiopia,2012,4.8833,63.8044
+Ethiopia,2013,4.7241,64.8948
+Ethiopia,2014,4.6089,65.3609
+Ethiopia,2015,4.5309,66.3256
+Ethiopia,2016,4.469,67.3412
+Ethiopia,2017,4.3903,67.5326
+Ethiopia,2018,4.3429,68.3975
+Ethiopia,2019,4.3226,68.795
+Ethiopia,2020,4.2429,68.4263
+Ethiopia,2021,4.1591,68.2852
+Ethiopia,2022,4.0626,68.903
+Europe and Central Asia,2010,1.774,79.433
+Europe and Central Asia,2011,1.768,79.865
+Europe and Central Asia,2012,1.79,79.994
+Europe and Central Asia,2013,1.785,80.274
+Europe and Central Asia,2014,1.813,80.632
+Europe and Central Asia,2015,1.818,80.657
+Europe and Central Asia,2016,1.818,81.032
+Europe and Central Asia,2017,1.768,81.207
+Europe and Central Asia,2018,1.744,81.357
+Europe and Central Asia,2019,1.711,81.642
+Europe and Central Asia,2020,1.699,80.354
+Europe and Central Asia,2021,1.698,79.894
+Europe and Central Asia,2022,1.696,80.357
+Europe and Central Asia,2010,2.019,75.972
+Europe and Central Asia,2011,2.015,76.348
+Europe and Central Asia,2012,2.046,76.65
+Europe and Central Asia,2013,2.063,77.008
+Europe and Central Asia,2014,2.104,77.469
+Europe and Central Asia,2015,2.114,77.704
+Europe and Central Asia,2016,2.107,78.084
+Europe and Central Asia,2017,2.065,78.438
+Europe and Central Asia,2018,2.06,78.575
+Europe and Central Asia,2019,2.044,78.764
+Europe and Central Asia,2020,2.052,77.143
+Europe and Central Asia,2021,2.034,76.792
+Europe and Central Asia,2022,2.023,76.729
+Falkland Islands (Malvinas),2010,1.5107,79.7718
+Falkland Islands (Malvinas),2011,1.522,80.151
+Falkland Islands (Malvinas),2012,1.5389,80.0209
+Falkland Islands (Malvinas),2013,1.5487,80.126
+Falkland Islands (Malvinas),2014,1.5618,80.3848
+Falkland Islands (Malvinas),2015,1.5697,80.051
+Falkland Islands (Malvinas),2016,1.5785,80.2258
+Falkland Islands (Malvinas),2017,1.5814,80.3302
+Falkland Islands (Malvinas),2018,1.5825,80.3103
+Falkland Islands (Malvinas),2019,1.5814,80.7172
+Falkland Islands (Malvinas),2020,1.5927,80.7794
+Falkland Islands (Malvinas),2021,1.5896,80.975
+Falkland Islands (Malvinas),2022,1.5798,81.2357
+Faroe Islands,2010,2.5005,78.9212
+Faroe Islands,2011,2.3292,80.1284
+Faroe Islands,2012,2.5605,80.6337
+Faroe Islands,2013,2.538,80.8757
+Faroe Islands,2014,2.5546,82.5718
+Faroe Islands,2015,2.4251,82.0207
+Faroe Islands,2016,2.6658,81.7957
+Faroe Islands,2017,2.7652,77.8874
+Faroe Islands,2018,2.511,78.9054
+Faroe Islands,2019,2.7796,80.2042
+Faroe Islands,2020,2.7964,81.0809
+Faroe Islands,2021,2.7751,81.0091
+Faroe Islands,2022,2.7402,80.7007
+Fiji,2010,2.7465,69.2713
+Fiji,2011,2.6846,69.5212
+Fiji,2012,2.6656,69.4125
+Fiji,2013,2.6625,69.3801
+Fiji,2014,2.6568,69.3472
+Fiji,2015,2.6421,68.9317
+Fiji,2016,2.6045,69.1368
+Fiji,2017,2.5573,69.6562
+Fiji,2018,2.5296,69.6636
+Fiji,2019,2.5195,69.7284
+Fiji,2020,2.4955,69.743
+Fiji,2021,2.4748,68.8768
+Fiji,2022,2.4619,70.2392
+Finland,2010,1.8638,83.2469
+Finland,2011,1.8284,83.5321
+Finland,2012,1.8027,83.4152
+Finland,2013,1.7477,83.822
+Finland,2014,1.7076,83.8417
+Finland,2015,1.6477,84.173
+Finland,2016,1.5666,84.1186
+Finland,2017,1.4882,84.2209
+Finland,2018,1.4084,84.3049
+Finland,2019,1.3566,84.5187
+Finland,2020,1.3698,84.6525
+Finland,2021,1.3891,84.7177
+Finland,2022,1.3969,84.8859
+France,2010,2.0176,84.686
+France,2011,1.9945,85.0332
+France,2012,1.9897,84.8976
+France,2013,1.9724,85.1033
+France,2014,1.9747,85.4961
+France,2015,1.9268,85.2056
+France,2016,1.8911,85.3987
+France,2017,1.861,85.3543
+France,2018,1.8428,85.4878
+France,2019,1.83,85.6123
+France,2020,1.7907,85.1712
+France,2021,1.79,85.485
+France,2022,1.7881,85.9668
+French Guiana,2010,3.5035,79.1179
+French Guiana,2011,3.4692,79.4435
+French Guiana,2012,3.4497,79.7539
+French Guiana,2013,3.4286,79.6573
+French Guiana,2014,3.4334,79.6461
+French Guiana,2015,3.4762,79.647
+French Guiana,2016,3.5415,79.6299
+French Guiana,2017,3.6107,79.6531
+French Guiana,2018,3.6253,79.7314
+French Guiana,2019,3.6039,79.8588
+French Guiana,2020,3.5577,79.8813
+French Guiana,2021,3.5081,78.0356
+French Guiana,2022,3.4693,80.3203
+French Polynesia,2010,2.1621,83.8118
+French Polynesia,2011,2.0664,84.2033
+French Polynesia,2012,2.026,84.5255
+French Polynesia,2013,1.9462,84.776
+French Polynesia,2014,1.9589,84.952
+French Polynesia,2015,1.9045,85.0812
+French Polynesia,2016,1.8523,85.1862
+French Polynesia,2017,1.8043,85.2899
+French Polynesia,2018,1.7891,85.4269
+French Polynesia,2019,1.7119,85.6083
+French Polynesia,2020,1.7048,85.8339
+French Polynesia,2021,1.6989,82.6322
+French Polynesia,2022,1.688,85.9771
+Gabon,2010,4.1532,65.8434
+Gabon,2011,4.1513,66.0941
+Gabon,2012,4.0864,66.7592
+Gabon,2013,4.0186,67.0075
+Gabon,2014,3.953,67.248
+Gabon,2015,3.8892,67.826
+Gabon,2016,3.8174,68.003
+Gabon,2017,3.7519,68.736
+Gabon,2018,3.6794,68.7886
+Gabon,2019,3.6155,68.8652
+Gabon,2020,3.5476,69.1163
+Gabon,2021,3.491,68.4944
+Gabon,2022,3.46,68.3593
+Gambia,2010,5.6686,61.6417
+Gambia,2011,5.6402,62.547
+Gambia,2012,5.5861,63.3468
+Gambia,2013,5.5101,63.0823
+Gambia,2014,5.4164,63.4751
+Gambia,2015,5.3136,63.5825
+Gambia,2016,5.1974,64.2642
+Gambia,2017,5.0908,64.2838
+Gambia,2018,4.972,64.2515
+Gambia,2019,4.8693,65.1857
+Gambia,2020,4.7765,64.2348
+Gambia,2021,4.6838,63.5287
+Gambia,2022,4.5859,64.3443
+Georgia,2010,1.9188,76.5721
+Georgia,2011,1.9176,76.8544
+Georgia,2012,1.9385,77.2051
+Georgia,2013,2.0166,77.4362
+Georgia,2014,2.1153,77.9342
+Georgia,2015,2.2045,78.1311
+Georgia,2016,2.1978,78.4301
+Georgia,2017,2.1443,78.224
+Georgia,2018,2.1143,78.1534
+Georgia,2019,2.0108,78.4289
+Georgia,2020,1.9713,77.8736
+Georgia,2021,2.0813,76.6807
+Georgia,2022,2.0632,76.4611
+Germany,2010,1.3921,82.6215
+Germany,2011,1.3878,82.8333
+Germany,2012,1.4095,82.9472
+Germany,2013,1.42,82.8637
+Germany,2014,1.4727,83.325
+Germany,2015,1.5059,82.9765
+Germany,2016,1.5897,83.2671
+Germany,2017,1.5766,83.2892
+Germany,2018,1.5599,83.596
+Germany,2019,1.5403,83.9653
+Germany,2020,1.519,83.6455
+Germany,2021,1.53,83.2215
+Germany,2022,1.533,83.4872
+Ghana,2010,4.2064,62.4852
+Ghana,2011,4.1928,63.2328
+Ghana,2012,4.1826,63.9705
+Ghana,2013,4.1357,64.0719
+Ghana,2014,4.0503,64.924
+Ghana,2015,4.0501,64.9865
+Ghana,2016,3.911,65.8731
+Ghana,2017,3.7134,65.9219
+Ghana,2018,3.7315,66.0489
+Ghana,2019,3.6827,66.8249
+Ghana,2020,3.6232,66.3852
+Ghana,2021,3.5633,66.0136
+Ghana,2022,3.5066,66.1305
+Gibraltar,2010,1.8378,84.0956
+Gibraltar,2011,1.8717,85.461
+Gibraltar,2012,1.8927,85.621
+Gibraltar,2013,1.8336,83.6368
+Gibraltar,2014,2.0144,86.2898
+Gibraltar,2015,2.1865,84.2309
+Gibraltar,2016,1.9401,84.0069
+Gibraltar,2017,1.8947,84.0175
+Gibraltar,2018,1.8789,84.2257
+Gibraltar,2019,1.8631,84.288
+Gibraltar,2020,1.8546,84.112
+Gibraltar,2021,1.8481,81.7015
+Gibraltar,2022,1.8368,84.691
+Greece,2010,1.4449,83.4436
+Greece,2011,1.3827,83.6318
+Greece,2012,1.3292,83.355
+Greece,2013,1.28,83.9701
+Greece,2014,1.2711,83.9804
+Greece,2015,1.2862,83.5783
+Greece,2016,1.315,83.9174
+Greece,2017,1.3101,83.5963
+Greece,2018,1.3139,84.1227
+Greece,2019,1.3174,83.8635
+Greece,2020,1.3617,83.5386
+Greece,2021,1.371,82.8521
+Greece,2022,1.3734,83.3168
+Greenland,2010,2.22,73.7818
+Greenland,2011,2.1066,74.3697
+Greenland,2012,2.025,74.9595
+Greenland,2013,2.0187,75.4395
+Greenland,2014,2.0202,75.5369
+Greenland,2015,2.0618,75.7059
+Greenland,2016,2.0566,75.9808
+Greenland,2017,2.0521,75.5357
+Greenland,2018,2.0246,75.3491
+Greenland,2019,2.0032,75.5401
+Greenland,2020,1.9928,75.6133
+Greenland,2021,1.9758,75.7036
+Greenland,2022,1.9577,75.95
+Grenada,2010,2.2402,77.6324
+Grenada,2011,2.2173,78.0668
+Grenada,2012,2.1938,77.8947
+Grenada,2013,2.1707,77.9028
+Grenada,2014,2.1481,78.0045
+Grenada,2015,2.126,78.0516
+Grenada,2016,2.1043,77.8138
+Grenada,2017,2.0831,77.7719
+Grenada,2018,2.0625,77.7959
+Grenada,2019,2.0425,77.8338
+Grenada,2020,2.0231,77.8688
+Grenada,2021,2.0043,77.8979
+Grenada,2022,1.9862,78.2976
+Guadeloupe,2010,2.1876,83.8912
+Guadeloupe,2011,2.2056,84.4718
+Guadeloupe,2012,2.2173,85.1
+Guadeloupe,2013,2.2228,85.003
+Guadeloupe,2014,2.2107,85.4059
+Guadeloupe,2015,2.1787,85.3271
+Guadeloupe,2016,2.1409,85.801
+Guadeloupe,2017,2.0884,85.8323
+Guadeloupe,2018,2.0794,85.7076
+Guadeloupe,2019,2.0838,85.9444
+Guadeloupe,2020,2.0702,85.7956
+Guadeloupe,2021,2.0521,83.7109
+Guadeloupe,2022,2.0329,83.8959
+Guam,2010,2.9725,80.5237
+Guam,2011,2.8653,80.9789
+Guam,2012,3.1153,80.6571
+Guam,2013,2.8743,80.5259
+Guam,2014,2.9431,80.6798
+Guam,2015,2.9217,80.5322
+Guam,2016,2.9523,80.7712
+Guam,2017,2.805,81.0427
+Guam,2018,2.6706,81.3142
+Guam,2019,2.623,81.5758
+Guam,2020,2.5932,81.8681
+Guam,2021,2.569,80.7036
+Guam,2022,2.5496,82.0455
+Guatemala,2010,3.3752,74.2903
+Guatemala,2011,3.2924,74.5251
+Guatemala,2012,3.2186,74.7313
+Guatemala,2013,3.151,74.9274
+Guatemala,2014,3.088,75.1003
+Guatemala,2015,3.0288,75.1782
+Guatemala,2016,2.9727,75.3922
+Guatemala,2017,2.8572,75.5204
+Guatemala,2018,2.743,75.5708
+Guatemala,2019,2.6101,75.8119
+Guatemala,2020,2.4836,75.545
+Guatemala,2021,2.3948,72.6514
+Guatemala,2022,2.3536,71.7543
+Guinea,2010,5.3969,57.8418
+Guinea,2011,5.2956,58.1069
+Guinea,2012,5.1945,58.7308
+Guinea,2013,5.1165,59.0068
+Guinea,2014,5.0488,59.2479
+Guinea,2015,5.0217,59.3069
+Guinea,2016,4.9261,59.6897
+Guinea,2017,4.7886,60.2122
+Guinea,2018,4.6689,60.2982
+Guinea,2019,4.5763,60.8172
+Guinea,2020,4.4889,60.4487
+Guinea,2021,4.3987,60.0985
+Guinea,2022,4.3033,60.2376
+Guinea-Bissau,2010,5.0607,58.4388
+Guinea-Bissau,2011,5.0468,59.0589
+Guinea-Bissau,2012,5.0026,59.7907
+Guinea-Bissau,2013,4.9375,60.3272
+Guinea-Bissau,2014,4.8015,60.6786
+Guinea-Bissau,2015,4.6712,61.2106
+Guinea-Bissau,2016,4.5306,61.7766
+Guinea-Bissau,2017,4.3576,62.037
+Guinea-Bissau,2018,4.263,62.6143
+Guinea-Bissau,2019,4.172,62.8717
+Guinea-Bissau,2020,4.0941,62.2647
+Guinea-Bissau,2021,4.0055,61.7958
+Guinea-Bissau,2022,3.9249,61.9295
+Guyana,2010,2.6552,70.2369
+Guyana,2011,2.6296,70.5182
+Guyana,2012,2.6057,70.8136
+Guyana,2013,2.582,71.1183
+Guyana,2014,2.5581,71.316
+Guyana,2015,2.5338,71.6316
+Guyana,2016,2.5093,71.8822
+Guyana,2017,2.4852,72.2069
+Guyana,2018,2.462,72.4388
+Guyana,2019,2.4397,72.6584
+Guyana,2020,2.4182,72.118
+Guyana,2021,2.3972,69.1042
+Guyana,2022,2.3692,69.3994
+Haiti,2010,3.4697,46.2514
+Haiti,2011,3.4107,64.1256
+Haiti,2012,3.3025,64.8042
+Haiti,2013,3.2158,65.2107
+Haiti,2014,3.1573,65.6837
+Haiti,2015,3.1082,65.9535
+Haiti,2016,3.0617,66.2348
+Haiti,2017,3.0161,66.732
+Haiti,2018,2.959,66.9187
+Haiti,2019,2.9192,67.3292
+Haiti,2020,2.8693,67.1177
+Haiti,2021,2.8143,66.1191
+Haiti,2022,2.7726,66.6955
+Holy See,2010,1.0031,83.7556
+Holy See,2011,1.0013,83.8586
+Holy See,2012,0.9955,84.1258
+Holy See,2013,0.9893,84.6827
+Holy See,2014,1.0108,84.773
+Holy See,2015,1.0151,84.5005
+Holy See,2016,1.0122,84.862
+Holy See,2017,0.9926,84.7362
+Holy See,2018,0.9928,85.2845
+Holy See,2019,1.0087,85.5991
+Holy See,2020,1.0017,85.1416
+Holy See,2021,1.0077,84.7064
+Holy See,2022,1,85.9294
+Honduras,2010,2.957,73.2785
+Honduras,2011,2.8601,73.7758
+Honduras,2012,2.774,74.1692
+Honduras,2013,2.6991,74.4967
+Honduras,2014,2.6351,74.6319
+Honduras,2015,2.5811,74.991
+Honduras,2016,2.5356,75.0777
+Honduras,2017,2.4961,75.1876
+Honduras,2018,2.4603,75.318
+Honduras,2019,2.4268,75.3704
+Honduras,2020,2.3945,73.9873
+Honduras,2021,2.363,72.5341
+Honduras,2022,2.3403,73.1568
+Hungary,2010,1.2543,78.3171
+Hungary,2011,1.2423,78.486
+Hungary,2012,1.3328,78.6161
+Hungary,2013,1.3566,79.0095
+Hungary,2014,1.4327,79.2303
+Hungary,2015,1.4493,78.8692
+Hungary,2016,1.5257,79.5637
+Hungary,2017,1.5413,79.2727
+Hungary,2018,1.5445,79.5274
+Hungary,2019,1.5486,79.6877
+Hungary,2020,1.5675,79.0266
+Hungary,2021,1.5782,77.9211
+Hungary,2022,1.5813,78.3093
+Iceland,2010,2.1904,83.8088
+Iceland,2011,2.0256,83.8147
+Iceland,2012,2.0356,83.7808
+Iceland,2013,1.9381,83.5002
+Iceland,2014,1.9277,84.2715
+Iceland,2015,1.8083,83.5876
+Iceland,2016,1.7452,83.8242
+Iceland,2017,1.7115,83.9182
+Iceland,2018,1.7128,84.2618
+Iceland,2019,1.7464,83.9463
+Iceland,2020,1.7449,84.089
+Iceland,2021,1.7329,84.1804
+Iceland,2022,1.7251,84.2877
+India,2010,2.603,68.6449
+India,2011,2.5358,69.1058
+India,2012,2.4667,69.5921
+India,2013,2.4062,70.0831
+India,2014,2.3064,70.6017
+India,2015,2.2867,71.0767
+India,2016,2.2729,71.5029
+India,2017,2.2002,71.8561
+India,2018,2.1765,72.1423
+India,2019,2.109,72.3954
+India,2020,2.0514,71.8237
+India,2021,2.0308,68.8864
+India,2022,2.0114,69.3843
+Indonesia,2010,2.452,70.4345
+Indonesia,2011,2.4989,70.5714
+Indonesia,2012,2.4903,70.7803
+Indonesia,2013,2.4268,71.3458
+Indonesia,2014,2.3892,71.4657
+Indonesia,2015,2.3447,71.6287
+Indonesia,2016,2.3086,71.7515
+Indonesia,2017,2.2618,71.898
+Indonesia,2018,2.2341,72.4034
+Indonesia,2019,2.2148,72.5969
+Indonesia,2020,2.194,70.9818
+Indonesia,2021,2.1746,69.7437
+Indonesia,2022,2.1529,70.4367
+Iran (Islamic Republic of),2010,1.7677,75.7283
+Iran (Islamic Republic of),2011,1.7996,76.3834
+Iran (Islamic Republic of),2012,1.8862,76.9576
+Iran (Islamic Republic of),2013,1.9614,77.2113
+Iran (Islamic Republic of),2014,2.0357,77.3612
+Iran (Islamic Republic of),2015,2.0535,77.7646
+Iran (Islamic Republic of),2016,2.0702,78.3359
+Iran (Islamic Republic of),2017,2.074,78.9036
+Iran (Islamic Republic of),2018,1.9679,79.091
+Iran (Islamic Republic of),2019,1.7698,79.0548
+Iran (Islamic Republic of),2020,1.7084,77.8168
+Iran (Islamic Republic of),2021,1.6919,76.8085
+Iran (Islamic Republic of),2022,1.6811,77.4533
+Iraq,2010,4.4292,70.1449
+Iraq,2011,4.5362,70.3476
+Iraq,2012,4.4773,70.5179
+Iraq,2013,4.3784,70.7019
+Iraq,2014,4.2833,71.1747
+Iraq,2015,4.0897,71.2134
+Iraq,2016,3.9003,72.3799
+Iraq,2017,3.7304,73.2346
+Iraq,2018,3.6585,73.2932
+Iraq,2019,3.6045,73.4283
+Iraq,2020,3.5512,71.1852
+Iraq,2021,3.4955,72.4219
+Iraq,2022,3.4447,73.3619
+Ireland,2010,2.0562,82.7483
+Ireland,2011,2.0261,82.7825
+Ireland,2012,1.9847,82.8734
+Ireland,2013,1.9388,82.9822
+Ireland,2014,1.9045,83.319
+Ireland,2015,1.8571,83.2871
+Ireland,2016,1.809,83.429
+Ireland,2017,1.7722,83.7185
+Ireland,2018,1.8056,83.8779
+Ireland,2019,1.7768,84.0395
+Ireland,2020,1.7723,84.1308
+Ireland,2021,1.7678,83.7675
+Ireland,2022,1.7626,84.4123
+Isle of Man,2010,2.1699,81.3711
+Isle of Man,2011,1.9563,81.5092
+Isle of Man,2012,1.8845,81.6566
+Isle of Man,2013,1.8531,81.7935
+Isle of Man,2014,1.7369,81.9395
+Isle of Man,2015,1.7114,80.7624
+Isle of Man,2016,1.691,82.2103
+Isle of Man,2017,1.6766,82.3544
+Isle of Man,2018,1.6206,82.4884
+Isle of Man,2019,1.6142,82.6295
+Isle of Man,2020,1.5685,82.5359
+Isle of Man,2021,1.5644,82.5307
+Isle of Man,2022,1.5712,82.7319
+Israel,2010,3.0268,83.5638
+Israel,2011,3.0076,83.4668
+Israel,2012,3.0485,83.4887
+Israel,2013,3.0324,83.8402
+Israel,2014,3.0838,84.0262
+Israel,2015,3.2484,84.0401
+Israel,2016,3.2779,84.1867
+Israel,2017,3.1143,84.5883
+Israel,2018,3.0924,84.7081
+Israel,2019,3.2151,84.6617
+Israel,2020,3.0266,84.47
+Israel,2021,2.9764,84.2953
+Israel,2022,2.9483,84.5081
+Italy,2010,1.4503,84.5189
+Italy,2011,1.434,84.5534
+Italy,2012,1.4235,84.5098
+Italy,2013,1.3844,84.9077
+Italy,2014,1.3663,85.1166
+Italy,2015,1.347,84.6547
+Italy,2016,1.3379,85.1802
+Italy,2017,1.3194,84.8565
+Italy,2018,1.2865,85.2678
+Italy,2019,1.2647,85.6027
+Italy,2020,1.2607,84.6905
+Italy,2021,1.2825,85.0955
+Italy,2022,1.2898,85.9999
+Jamaica,2010,1.7422,74.6666
+Jamaica,2011,1.7279,74.9973
+Jamaica,2012,1.6962,74.8192
+Jamaica,2013,1.6364,74.555
+Jamaica,2014,1.5692,74.2101
+Jamaica,2015,1.5883,73.9708
+Jamaica,2016,1.5162,73.9174
+Jamaica,2017,1.44,73.9115
+Jamaica,2018,1.388,73.9027
+Jamaica,2019,1.3695,73.8735
+Jamaica,2020,1.3577,73.9185
+Jamaica,2021,1.352,72.543
+Jamaica,2022,1.3401,72.7373
+Japan,2010,1.3878,86.233
+Japan,2011,1.3904,85.852
+Japan,2012,1.4081,86.3543
+Japan,2013,1.4274,86.554
+Japan,2014,1.4219,86.7584
+Japan,2015,1.4438,86.9674
+Japan,2016,1.4325,87.11
+Japan,2017,1.3544,87.2625
+Japan,2018,1.3338,87.3103
+Japan,2019,1.2859,87.4273
+Japan,2020,1.2936,87.7238
+Japan,2021,1.2974,87.7313
+Japan,2022,1.3048,87.832
+Jordan,2010,3.7776,76.1283
+Jordan,2011,3.6809,76.3784
+Jordan,2012,3.5588,76.6045
+Jordan,2013,3.436,76.8389
+Jordan,2014,3.3097,77.0612
+Jordan,2015,3.1747,77.2681
+Jordan,2016,3.0766,77.4846
+Jordan,2017,3.0271,77.8313
+Jordan,2018,2.9729,78.1718
+Jordan,2019,2.9183,78.5064
+Jordan,2020,2.8728,77.7718
+Jordan,2021,2.8297,76.7726
+Jordan,2022,2.7856,76.675
+Kazakhstan,2010,2.5897,72.4727
+Kazakhstan,2011,2.588,72.9761
+Kazakhstan,2012,2.6185,73.5283
+Kazakhstan,2013,2.6392,73.8859
+Kazakhstan,2014,2.7303,74.3605
+Kazakhstan,2015,2.7414,74.7555
+Kazakhstan,2016,2.7791,74.3191
+Kazakhstan,2017,2.7309,75.0361
+Kazakhstan,2018,2.8398,75.0127
+Kazakhstan,2019,2.9083,75.2815
+Kazakhstan,2020,3.1403,74.1797
+Kazakhstan,2021,3.0836,73.0814
+Kazakhstan,2022,3.0473,72.9947
+Kenya,2010,4.3667,62.3762
+Kenya,2011,4.2194,63.0011
+Kenya,2012,4.0876,63.0691
+Kenya,2013,3.9522,63.1935
+Kenya,2014,3.8435,63.9794
+Kenya,2015,3.8,64.1453
+Kenya,2016,3.7239,64.2044
+Kenya,2017,3.6435,64.9609
+Kenya,2018,3.5798,65.1579
+Kenya,2019,3.4685,65.2753
+Kenya,2020,3.3969,65.0621
+Kenya,2021,3.3351,64.0899
+Kenya,2022,3.2958,64.6858
+Kiribati,2010,3.8761,66.6248
+Kiribati,2011,3.8572,66.793
+Kiribati,2012,3.7735,66.9657
+Kiribati,2013,3.6891,67.1701
+Kiribati,2014,3.5993,67.3872
+Kiribati,2015,3.53,67.6262
+Kiribati,2016,3.4713,67.9378
+Kiribati,2017,3.4307,68.2427
+Kiribati,2018,3.4095,68.5207
+Kiribati,2019,3.368,68.782
+Kiribati,2020,3.3328,68.9478
+Kiribati,2021,3.3038,69.0959
+Kiribati,2022,3.2708,69.3859
+Kosovo,2010,2.426,80.2736
+Kosovo,2011,1.992,80.4799
+Kosovo,2012,2.0015,81.0428
+Kosovo,2013,2.0977,81.4333
+Kosovo,2014,1.8706,81.6944
+Kosovo,2015,1.7513,81.632
+Kosovo,2016,1.6577,81.4938
+Kosovo,2017,1.6491,81.2642
+Kosovo,2018,1.6055,81.0281
+Kosovo,2019,1.546,81.3256
+Kosovo,2020,1.5293,79.268
+Kosovo,2021,1.5219,79.5529
+Kosovo,2022,1.5099,81.7418
+Kuwait,2010,2.2566,80.1054
+Kuwait,2011,2.1995,80.6171
+Kuwait,2012,2.1677,81.0717
+Kuwait,2013,2.1526,81.5423
+Kuwait,2014,2.156,81.7721
+Kuwait,2015,2.16,82.0035
+Kuwait,2016,2.1572,82.2027
+Kuwait,2017,2.1615,82.303
+Kuwait,2018,2.1652,82.2812
+Kuwait,2019,2.159,82.2662
+Kuwait,2020,2.1402,80.023
+Kuwait,2021,2.1096,81.4628
+Kuwait,2022,2.0923,82.752
+Kyrgyzstan,2010,3.0624,72.2208
+Kyrgyzstan,2011,3.1354,72.6762
+Kyrgyzstan,2012,3.1647,72.9736
+Kyrgyzstan,2013,3.1704,72.9997
+Kyrgyzstan,2014,3.189,73.7369
+Kyrgyzstan,2015,3.1741,73.3921
+Kyrgyzstan,2016,3.1108,74.1224
+Kyrgyzstan,2017,3.0899,74.3208
+Kyrgyzstan,2018,3.1817,74.6463
+Kyrgyzstan,2019,3.1434,75.3562
+Kyrgyzstan,2020,3.0411,73.7747
+Kyrgyzstan,2021,2.9912,74.3515
+Kyrgyzstan,2022,2.9459,74.9286
+Lao People's Democratic Republic,2010,3.1451,66.1562
+Lao People's Democratic Republic,2011,3.0495,66.5909
+Lao People's Democratic Republic,2012,2.9525,67.3681
+Lao People's Democratic Republic,2013,2.8724,67.6632
+Lao People's Democratic Republic,2014,2.8022,68.5068
+Lao People's Democratic Republic,2015,2.7663,68.7236
+Lao People's Democratic Republic,2016,2.722,69.346
+Lao People's Democratic Republic,2017,2.6714,69.4683
+Lao People's Democratic Republic,2018,2.6188,69.5715
+Lao People's Democratic Republic,2019,2.5707,70.2337
+Lao People's Democratic Republic,2020,2.541,70.5942
+Lao People's Democratic Republic,2021,2.4961,70.0778
+Lao People's Democratic Republic,2022,2.4477,71.1637
+Latin America and the Caribbean,2010,2.194,76.295
+Latin America and the Caribbean,2011,2.176,77.005
+Latin America and the Caribbean,2012,2.144,77.267
+Latin America and the Caribbean,2013,2.119,77.463
+Latin America and the Caribbean,2014,2.101,77.636
+Latin America and the Caribbean,2015,2.078,77.754
+Latin America and the Caribbean,2016,2.028,77.798
+Latin America and the Caribbean,2017,2.01,77.874
+Latin America and the Caribbean,2018,1.985,78.013
+Latin America and the Caribbean,2019,1.936,78.215
+Latin America and the Caribbean,2020,1.897,76.648
+Latin America and the Caribbean,2021,1.866,75.696
+Latin America and the Caribbean,2022,1.849,76.923
+Latin America and the Caribbean,2010,2.194,76.295
+Latin America and the Caribbean,2011,2.176,77.006
+Latin America and the Caribbean,2012,2.145,77.268
+Latin America and the Caribbean,2013,2.119,77.463
+Latin America and the Caribbean,2014,2.101,77.636
+Latin America and the Caribbean,2015,2.079,77.754
+Latin America and the Caribbean,2016,2.028,77.798
+Latin America and the Caribbean,2017,2.011,77.874
+Latin America and the Caribbean,2018,1.985,78.013
+Latin America and the Caribbean,2019,1.936,78.217
+Latin America and the Caribbean,2020,1.897,76.647
+Latin America and the Caribbean,2021,1.866,75.696
+Latin America and the Caribbean,2022,1.849,76.922
+Latvia,2010,1.3702,77.8875
+Latvia,2011,1.3434,78.56
+Latvia,2012,1.4396,78.4223
+Latvia,2013,1.5261,78.7021
+Latvia,2014,1.6417,79.1809
+Latvia,2015,1.6984,79.1758
+Latvia,2016,1.7334,79.2191
+Latvia,2017,1.6908,79.2752
+Latvia,2018,1.6175,79.3965
+Latvia,2019,1.6098,79.7372
+Latvia,2020,1.5747,79.5378
+Latvia,2021,1.5827,77.8257
+Latvia,2022,1.5854,80.0875
+Least developed countries,2010,4.5324,62.274
+Least developed countries,2011,4.4636,63.1601
+Least developed countries,2012,4.3935,63.8996
+Least developed countries,2013,4.3395,64.5774
+Least developed countries,2014,4.2877,64.9632
+Least developed countries,2015,4.2406,65.3973
+Least developed countries,2016,4.1952,65.9827
+Least developed countries,2017,4.142,66.3844
+Least developed countries,2018,4.1013,66.8554
+Least developed countries,2019,4.0645,67.301
+Least developed countries,2020,4.0163,66.8064
+Least developed countries,2021,3.9668,66.4693
+Least developed countries,2022,3.9125,67.3258
+Lebanon,2010,2.1257,79.9159
+Lebanon,2011,2.1617,80.1339
+Lebanon,2012,2.1692,80.3205
+Lebanon,2013,2.1717,80.4788
+Lebanon,2014,2.1821,80.704
+Lebanon,2015,2.1782,80.9511
+Lebanon,2016,2.183,81.264
+Lebanon,2017,2.1733,81.4747
+Lebanon,2018,2.1479,81.4548
+Lebanon,2019,2.1302,81.0425
+Lebanon,2020,2.1027,79.895
+Lebanon,2021,2.0912,77.2512
+Lebanon,2022,2.0801,76.5973
+Lesotho,2010,3.2491,48.1765
+Lesotho,2011,3.3176,49.261
+Lesotho,2012,3.3053,50.4858
+Lesotho,2013,3.3335,51.7526
+Lesotho,2014,3.2876,52.8068
+Lesotho,2015,3.2637,53.8597
+Lesotho,2016,3.2388,55.0962
+Lesotho,2017,3.1867,55.8996
+Lesotho,2018,3.1389,56.5908
+Lesotho,2019,3.0942,57.0528
+Lesotho,2020,3.0486,57.5374
+Lesotho,2021,3.0176,55.9266
+Lesotho,2022,2.9799,55.9233
+Liberia,2010,5.0583,60.6435
+Liberia,2011,4.9699,60.8422
+Liberia,2012,4.8809,61.1478
+Liberia,2013,4.7492,61.1236
+Liberia,2014,4.6218,60.2132
+Liberia,2015,4.5232,60.3732
+Liberia,2016,4.4614,61.5536
+Liberia,2017,4.3957,61.6942
+Liberia,2018,4.3356,62.1641
+Liberia,2019,4.2567,62.2977
+Liberia,2020,4.1736,62.3545
+Liberia,2021,4.0885,62.0722
+Liberia,2022,4.0156,62.3923
+Libya,2010,2.6027,74.8835
+Libya,2011,2.6463,73.8595
+Libya,2012,2.6804,75.0689
+Libya,2013,2.7162,74.9994
+Libya,2014,2.7545,75.3007
+Libya,2015,2.7111,75.3691
+Libya,2016,2.6733,75.4741
+Libya,2017,2.6262,75.6736
+Libya,2018,2.5807,75.8769
+Libya,2019,2.5386,75.7661
+Libya,2020,2.5071,75.3484
+Libya,2021,2.4624,74.3956
+Libya,2022,2.4022,74.7593
+Liechtenstein,2010,1.437,84.3201
+Liechtenstein,2011,1.6603,84.2216
+Liechtenstein,2012,1.5151,85.2069
+Liechtenstein,2013,1.4626,83.9243
+Liechtenstein,2014,1.5727,83.2197
+Liechtenstein,2015,1.4264,84.5161
+Liechtenstein,2016,1.5889,84.0237
+Liechtenstein,2017,1.4586,86.0246
+Liechtenstein,2018,1.567,85.5161
+Liechtenstein,2019,1.4851,85.8222
+Liechtenstein,2020,1.4908,85.0059
+Liechtenstein,2021,1.4946,85.35
+Liechtenstein,2022,1.4921,86.129
+Lithuania,2010,1.5031,78.802
+Lithuania,2011,1.5471,79.2415
+Lithuania,2012,1.5922,79.4154
+Lithuania,2013,1.5884,79.4606
+Lithuania,2014,1.6297,79.7991
+Lithuania,2015,1.6977,79.5034
+Lithuania,2016,1.6868,79.7719
+Lithuania,2017,1.6331,79.9166
+Lithuania,2018,1.6336,80.1006
+Lithuania,2019,1.6136,80.6318
+Lithuania,2020,1.6183,80.0256
+Lithuania,2021,1.6222,78.775
+Lithuania,2022,1.6222,79.1304
+Luxembourg,2010,1.6199,83.1547
+Luxembourg,2011,1.5351,83.1392
+Luxembourg,2012,1.5711,83.0848
+Luxembourg,2013,1.5483,83.2981
+Luxembourg,2014,1.4993,84.4127
+Luxembourg,2015,1.4642,83.9208
+Luxembourg,2016,1.414,84.4518
+Luxembourg,2017,1.3939,83.8862
+Luxembourg,2018,1.381,83.974
+Luxembourg,2019,1.3483,84.4216
+Luxembourg,2020,1.379,83.73
+Luxembourg,2021,1.3877,84.8055
+Luxembourg,2022,1.3934,84.7698
+Madagascar,2010,4.7553,64.6055
+Madagascar,2011,4.6072,65.433
+Madagascar,2012,4.4664,65.4759
+Madagascar,2013,4.3582,66.2309
+Madagascar,2014,4.2473,66.356
+Madagascar,2015,4.1829,66.3456
+Madagascar,2016,4.1634,67.1357
+Madagascar,2017,4.1087,67.243
+Madagascar,2018,4.0434,67.4323
+Madagascar,2019,3.9783,68.2102
+Madagascar,2020,3.9183,67.6121
+Madagascar,2021,3.8514,66.8701
+Madagascar,2022,3.7906,67.617
+Malawi,2010,5.2738,58.4105
+Malawi,2011,5.106,59.8344
+Malawi,2012,4.9244,61.2621
+Malawi,2013,4.7782,62.6325
+Malawi,2014,4.6124,64.3396
+Malawi,2015,4.4521,64.6593
+Malawi,2016,4.3085,65.671
+Malawi,2017,4.2202,66.6442
+Malawi,2018,4.1405,66.9602
+Malawi,2019,4.0716,67.9678
+Malawi,2020,3.9947,67.5971
+Malawi,2021,3.9165,66.4685
+Malawi,2022,3.8488,66.3258
+Malaysia,2010,2.1436,77.1241
+Malaysia,2011,2.1494,77.4854
+Malaysia,2012,2.1159,77.5979
+Malaysia,2013,2.0895,77.618
+Malaysia,2014,2.0807,77.6765
+Malaysia,2015,2.0391,77.7282
+Malaysia,2016,1.9776,77.9384
+Malaysia,2017,1.9293,78.1391
+Malaysia,2018,1.881,78.2669
+Malaysia,2019,1.834,78.3059
+Malaysia,2020,1.8177,78.4719
+Malaysia,2021,1.803,77.3623
+Malaysia,2022,1.7869,78.7986
+Maldives,2010,2.3176,78.7946
+Maldives,2011,2.2608,79.1877
+Maldives,2012,2.2017,79.6107
+Maldives,2013,2.1228,80.1034
+Maldives,2014,2.0591,80.4059
+Maldives,2015,1.9897,80.6751
+Maldives,2016,1.913,80.8138
+Maldives,2017,1.8445,81.0585
+Maldives,2018,1.7843,81.0736
+Maldives,2019,1.7365,81.1621
+Maldives,2020,1.7124,81.2731
+Maldives,2021,1.6916,81.0193
+Maldives,2022,1.6784,81.8436
+Mali,2010,6.5788,57.3282
+Mali,2011,6.5447,57.7228
+Mali,2012,6.5235,58.0804
+Mali,2013,6.4906,58.4632
+Mali,2014,6.4405,58.9695
+Mali,2015,6.3847,59.468
+Mali,2016,6.3192,59.7042
+Mali,2017,6.2514,60.2354
+Mali,2018,6.1826,60.6944
+Mali,2019,6.1029,60.8412
+Mali,2020,6.0347,59.9399
+Mali,2021,5.9564,60.331
+Mali,2022,5.8669,60.8322
+Malta,2010,1.3729,83.749
+Malta,2011,1.4454,83.5828
+Malta,2012,1.4275,83.5516
+Malta,2013,1.3637,84.5544
+Malta,2014,1.3783,84.9876
+Malta,2015,1.3737,85.3296
+Malta,2016,1.3693,85.0842
+Malta,2017,1.27,86.1806
+Malta,2018,1.2403,85.8956
+Malta,2019,1.1602,85.3253
+Malta,2020,1.1707,86.2215
+Malta,2021,1.1783,86.1085
+Malta,2022,1.1993,85.7028
+Marshall Islands,2010,3.6325,65.119
+Marshall Islands,2011,3.5104,65.1777
+Marshall Islands,2012,3.3887,65.2713
+Marshall Islands,2013,3.2737,65.3603
+Marshall Islands,2014,3.161,65.4934
+Marshall Islands,2015,3.063,65.7046
+Marshall Islands,2016,2.9829,65.9056
+Marshall Islands,2017,2.929,66.1205
+Marshall Islands,2018,2.8765,66.3548
+Marshall Islands,2019,2.8241,66.6076
+Marshall Islands,2020,2.7772,66.8825
+Marshall Islands,2021,2.7288,67.1997
+Marshall Islands,2022,2.6722,67.0924
+Martinique,2010,2.0172,84.7242
+Martinique,2011,1.9754,85.1813
+Martinique,2012,1.9789,85.1295
+Martinique,2013,1.9746,85.073
+Martinique,2014,1.9911,84.9699
+Martinique,2015,1.9739,84.8796
+Martinique,2016,1.9513,84.9397
+Martinique,2017,1.9246,85.1598
+Martinique,2018,1.9229,85.3867
+Martinique,2019,1.9344,85.603
+Martinique,2020,1.9277,85.8203
+Martinique,2021,1.9146,83.5623
+Martinique,2022,1.9063,85.9659
+Mauritania,2010,5.0427,64.748
+Mauritania,2011,5.0276,65.0698
+Mauritania,2012,4.9864,65.2543
+Mauritania,2013,4.9418,65.6818
+Mauritania,2014,4.8863,65.7827
+Mauritania,2015,4.8129,66.2763
+Mauritania,2016,4.7413,66.4828
+Mauritania,2017,4.6638,66.9416
+Mauritania,2018,4.6069,67.0747
+Mauritania,2019,4.5207,67.6511
+Mauritania,2020,4.4553,66.335
+Mauritania,2021,4.3976,66.0979
+Mauritania,2022,4.3415,66.4467
+Mauritius,2010,1.5539,77.5795
+Mauritius,2011,1.5407,77.6954
+Mauritius,2012,1.5303,77.6609
+Mauritius,2013,1.4231,78.0484
+Mauritius,2014,1.4244,78.1555
+Mauritius,2015,1.3702,78.2164
+Mauritius,2016,1.3969,78.271
+Mauritius,2017,1.4332,78.0744
+Mauritius,2018,1.4055,77.9814
+Mauritius,2019,1.3938,78.1786
+Mauritius,2020,1.414,77.7364
+Mauritius,2021,1.4105,76.8265
+Mauritius,2022,1.3933,77.1279
+Mayotte,2010,4.3794,80.3657
+Mayotte,2011,4.3281,80.5617
+Mayotte,2012,4.291,80.7271
+Mayotte,2013,4.442,80.8305
+Mayotte,2014,4.6386,80.9348
+Mayotte,2015,4.9264,80.9288
+Mayotte,2016,5.0517,80.8157
+Mayotte,2017,5.0875,80.7962
+Mayotte,2018,4.9107,80.7809
+Mayotte,2019,4.8954,80.815
+Mayotte,2020,4.5459,79.3083
+Mayotte,2021,4.4392,77.8385
+Mayotte,2022,4.3667,78.5224
+Mexico,2010,2.3402,77.1168
+Mexico,2011,2.3174,77.3107
+Mexico,2012,2.2943,77.5347
+Mexico,2013,2.2692,77.7058
+Mexico,2014,2.2106,77.7819
+Mexico,2015,2.1368,77.6919
+Mexico,2016,2.0856,77.4856
+Mexico,2017,2.0406,77.3026
+Mexico,2018,1.9955,77.2856
+Mexico,2019,1.9165,77.5736
+Mexico,2020,1.905,74.3136
+Mexico,2021,1.8223,74.8637
+Mexico,2022,1.8029,78.1613
+Micronesia (Federated States of),2010,3.2356,74.4217
+Micronesia (Federated States of),2011,3.18,74.5451
+Micronesia (Federated States of),2012,3.1297,74.6639
+Micronesia (Federated States of),2013,3.0869,74.7599
+Micronesia (Federated States of),2014,3.0319,74.8669
+Micronesia (Federated States of),2015,2.9707,74.7638
+Micronesia (Federated States of),2016,2.9417,74.9789
+Micronesia (Federated States of),2017,2.8929,74.9728
+Micronesia (Federated States of),2018,2.8403,74.9551
+Micronesia (Federated States of),2019,2.8015,74.8423
+Micronesia (Federated States of),2020,2.7539,74.5396
+Micronesia (Federated States of),2021,2.7114,74.608
+Micronesia (Federated States of),2022,2.6685,74.8234
+Middle East and North Africa,2010,2.897,74.17
+Middle East and North Africa,2011,2.915,74.478
+Middle East and North Africa,2012,2.949,74.494
+Middle East and North Africa,2013,2.97,74.579
+Middle East and North Africa,2014,2.978,74.851
+Middle East and North Africa,2015,2.962,75.071
+Middle East and North Africa,2016,2.887,75.534
+Middle East and North Africa,2017,2.855,76.096
+Middle East and North Africa,2018,2.802,76.197
+Middle East and North Africa,2019,2.725,76.229
+Middle East and North Africa,2020,2.688,75.354
+Middle East and North Africa,2021,2.659,75.009
+Middle East and North Africa,2022,2.629,75.429
+Middle East and North Africa,2010,3.047,73.072
+Middle East and North Africa,2011,3.059,73.398
+Middle East and North Africa,2012,3.086,73.486
+Middle East and North Africa,2013,3.107,73.579
+Middle East and North Africa,2014,3.116,73.889
+Middle East and North Africa,2015,3.102,74.099
+Middle East and North Africa,2016,3.029,74.527
+Middle East and North Africa,2017,3,75.085
+Middle East and North Africa,2018,2.949,75.189
+Middle East and North Africa,2019,2.873,75.225
+Middle East and North Africa,2020,2.837,74.404
+Middle East and North Africa,2021,2.807,74.056
+Middle East and North Africa,2022,2.777,74.466
+Monaco,2010,2.2113,86.7224
+Monaco,2011,2.1079,87.211
+Monaco,2012,2.1509,87.0165
+Monaco,2013,2.1471,87.6038
+Monaco,2014,2.247,88.1196
+Monaco,2015,2.2286,88.2218
+Monaco,2016,2.2578,88.2218
+Monaco,2017,2.1478,87.9144
+Monaco,2018,2.2128,88.7272
+Monaco,2019,2.1627,88.5261
+Monaco,2020,2.1221,88.4357
+Monaco,2021,2.1109,87.6773
+Monaco,2022,2.0909,88.8808
+Mongolia,2010,2.5126,71.8434
+Mongolia,2011,2.602,71.6941
+Mongolia,2012,2.7386,72.4603
+Mongolia,2013,2.8974,72.8844
+Mongolia,2014,2.9958,73.2828
+Mongolia,2015,3.0097,73.6841
+Mongolia,2016,2.957,74.0483
+Mongolia,2017,2.8912,74.293
+Mongolia,2018,2.9227,75.8293
+Mongolia,2019,2.9367,76.6449
+Mongolia,2020,2.8999,77.0203
+Mongolia,2021,2.8371,75.6958
+Mongolia,2022,2.774,77.3746
+Montenegro,2010,1.7079,78.8622
+Montenegro,2011,1.6577,79.0576
+Montenegro,2012,1.7156,78.5388
+Montenegro,2013,1.7315,79.4185
+Montenegro,2014,1.7516,79.7308
+Montenegro,2015,1.7388,79.4045
+Montenegro,2016,1.7874,79.4839
+Montenegro,2017,1.7778,79.8971
+Montenegro,2018,1.7595,79.9355
+Montenegro,2019,1.7605,80.2188
+Montenegro,2020,1.7063,79.4679
+Montenegro,2021,1.6914,79.8119
+Montenegro,2022,1.6773,80.2618
+Montserrat,2010,1.3998,75.5302
+Montserrat,2011,1.4382,75.7927
+Montserrat,2012,1.5122,75.9838
+Montserrat,2013,1.488,76.091
+Montserrat,2014,1.516,76.2193
+Montserrat,2015,1.4979,76.3287
+Montserrat,2016,1.5498,76.499
+Montserrat,2017,1.5699,76.7108
+Montserrat,2018,1.5796,76.871
+Montserrat,2019,1.5822,77.0302
+Montserrat,2020,1.5828,77.0441
+Montserrat,2021,1.5735,77.238
+Montserrat,2022,1.5651,77.5407
+Morocco,2010,2.5858,72.4851
+Morocco,2011,2.6094,73.0232
+Morocco,2012,2.5983,73.5246
+Morocco,2013,2.5938,73.9762
+Morocco,2014,2.5476,74.3899
+Morocco,2015,2.5313,74.7772
+Morocco,2016,2.4514,75.1759
+Morocco,2017,2.451,75.6644
+Morocco,2018,2.4148,76.0856
+Morocco,2019,2.3818,76.4485
+Morocco,2020,2.353,76.3084
+Morocco,2021,2.328,76.3977
+Morocco,2022,2.2991,77.177
+Mozambique,2010,5.6301,55.8371
+Mozambique,2011,5.5512,56.5842
+Mozambique,2012,5.4511,57.5213
+Mozambique,2013,5.3401,58.523
+Mozambique,2014,5.1307,59.4392
+Mozambique,2015,5.062,60.4397
+Mozambique,2016,4.9924,61.475
+Mozambique,2017,4.9224,62.2208
+Mozambique,2018,4.8524,63.2337
+Mozambique,2019,4.7826,63.92
+Mozambique,2020,4.7133,64.1598
+Mozambique,2021,4.6444,62.4325
+Mozambique,2022,4.5614,62.6881
+Myanmar,2010,2.3459,66.2152
+Myanmar,2011,2.3122,66.9633
+Myanmar,2012,2.2738,67.1824
+Myanmar,2013,2.2562,67.8731
+Myanmar,2014,2.2398,68.168
+Myanmar,2015,2.2475,68.7443
+Myanmar,2016,2.2486,68.8385
+Myanmar,2017,2.2338,68.9953
+Myanmar,2018,2.213,69.6764
+Myanmar,2019,2.2002,69.7985
+Myanmar,2020,2.1739,69.959
+Myanmar,2021,2.1514,69.0009
+Myanmar,2022,2.1267,70.4775
+Namibia,2010,3.6305,58.7309
+Namibia,2011,3.6579,59.5017
+Namibia,2012,3.6762,60.8503
+Namibia,2013,3.6533,62.029
+Namibia,2014,3.6354,63.0487
+Namibia,2015,3.6041,64.0302
+Namibia,2016,3.574,65.2005
+Namibia,2017,3.5114,65.8796
+Namibia,2018,3.4616,66.1757
+Namibia,2019,3.4037,66.6372
+Namibia,2020,3.3491,66.6055
+Namibia,2021,3.3025,62.9849
+Namibia,2022,3.2475,61.7038
+Nauru,2010,3.907,63.4908
+Nauru,2011,3.948,63.9713
+Nauru,2012,3.9283,64.4788
+Nauru,2013,3.8922,65.0085
+Nauru,2014,3.8569,65.5585
+Nauru,2015,3.8269,66.0301
+Nauru,2016,3.7908,66.4498
+Nauru,2017,3.7311,66.7594
+Nauru,2018,3.6701,66.9886
+Nauru,2019,3.6177,67.3212
+Nauru,2020,3.5714,67.2723
+Nauru,2021,3.5187,67.303
+Nauru,2022,3.4626,67.8412
+Nepal,2010,2.5115,68.5659
+Nepal,2011,2.4386,69.0936
+Nepal,2012,2.3872,69.2229
+Nepal,2013,2.3342,69.7524
+Nepal,2014,2.2932,69.8184
+Nepal,2015,2.2498,69.0787
+Nepal,2016,2.2025,70.5146
+Nepal,2017,2.1495,70.6379
+Nepal,2018,2.1038,70.7187
+Nepal,2019,2.0805,71.3513
+Nepal,2020,2.0548,71.1727
+Nepal,2021,2.0293,70.3617
+Nepal,2022,2.0083,72.364
+Netherlands (Kingdom of the),2010,1.7919,82.7153
+Netherlands (Kingdom of the),2011,1.758,82.8477
+Netherlands (Kingdom of the),2012,1.7212,82.8236
+Netherlands (Kingdom of the),2013,1.678,83.0457
+Netherlands (Kingdom of the),2014,1.7068,83.2899
+Netherlands (Kingdom of the),2015,1.6611,83.1283
+Netherlands (Kingdom of the),2016,1.6604,83.1242
+Netherlands (Kingdom of the),2017,1.6198,83.3171
+Netherlands (Kingdom of the),2018,1.5869,83.3262
+Netherlands (Kingdom of the),2019,1.5762,83.5565
+Netherlands (Kingdom of the),2020,1.5895,83.339
+Netherlands (Kingdom of the),2021,1.6404,83.3568
+Netherlands (Kingdom of the),2022,1.6368,83.9041
+New Caledonia,2010,2.1684,82.6113
+New Caledonia,2011,2.1821,83.1602
+New Caledonia,2012,2.1942,83.6859
+New Caledonia,2013,2.1757,84.0848
+New Caledonia,2014,2.1458,83.407
+New Caledonia,2015,2.1213,82.6752
+New Caledonia,2016,2.1074,83.0554
+New Caledonia,2017,2.0973,83.4279
+New Caledonia,2018,2.0765,83.821
+New Caledonia,2019,2.0559,84.2116
+New Caledonia,2020,2.0366,84.5955
+New Caledonia,2021,2.0252,83.0815
+New Caledonia,2022,2.0011,84.6124
+New Zealand,2010,2.1642,82.9593
+New Zealand,2011,2.0931,82.6152
+New Zealand,2012,2.0904,83.0499
+New Zealand,2013,2.0021,83.4299
+New Zealand,2014,1.9274,83.612
+New Zealand,2015,1.9838,83.741
+New Zealand,2016,1.8815,83.8003
+New Zealand,2017,1.892,83.999
+New Zealand,2018,1.729,84.1707
+New Zealand,2019,1.854,84.3772
+New Zealand,2020,1.7902,84.5704
+New Zealand,2021,1.7733,84.3213
+New Zealand,2022,1.7623,84.7259
+Nicaragua,2010,2.6008,75.1276
+Nicaragua,2011,2.5747,75.5281
+Nicaragua,2012,2.55,75.7071
+Nicaragua,2013,2.5263,75.7627
+Nicaragua,2014,2.5032,75.8224
+Nicaragua,2015,2.4797,75.925
+Nicaragua,2016,2.4553,76.122
+Nicaragua,2017,2.43,76.3671
+Nicaragua,2018,2.4039,76.6806
+Nicaragua,2019,2.3768,77.0005
+Nicaragua,2020,2.3492,75.012
+Nicaragua,2021,2.3213,76.8026
+Nicaragua,2022,2.284,77.5564
+Niger,2010,7.4854,59.0405
+Niger,2011,7.4495,59.6918
+Niger,2012,7.4,60.2522
+Niger,2013,7.3442,60.9521
+Niger,2014,7.2787,61.5443
+Niger,2015,7.2111,62.0953
+Niger,2016,7.141,62.5993
+Niger,2017,7.0836,63.145
+Niger,2018,7.0232,63.2947
+Niger,2019,6.9614,63.9386
+Niger,2020,6.8924,62.4539
+Niger,2021,6.82,62.7943
+Niger,2022,6.7489,63.4014
+Nigeria,2010,5.9803,51.4038
+Nigeria,2011,5.9176,51.7907
+Nigeria,2012,5.8319,51.896
+Nigeria,2013,5.7376,52.1147
+Nigeria,2014,5.6638,52.196
+Nigeria,2015,5.6163,52.2016
+Nigeria,2016,5.5837,52.2288
+Nigeria,2017,5.5233,52.5886
+Nigeria,2018,5.4468,52.7698
+Nigeria,2019,5.3793,53.1647
+Nigeria,2020,5.3095,53.3226
+Nigeria,2021,5.2374,53.0701
+Nigeria,2022,5.1428,53.9685
+Niue,2010,2.8515,70.4915
+Niue,2011,2.8208,70.769
+Niue,2012,2.7912,70.9737
+Niue,2013,2.7497,71.2013
+Niue,2014,2.7104,71.3952
+Niue,2015,2.675,71.6274
+Niue,2016,2.6311,71.7945
+Niue,2017,2.5885,71.9747
+Niue,2018,2.5419,72.1673
+Niue,2019,2.5018,72.3302
+Niue,2020,2.4743,72.4749
+Niue,2021,2.4485,72.5995
+Niue,2022,2.4151,72.8679
+North America,2010,1.904,81.391
+North America,2011,1.868,81.419
+North America,2012,1.854,81.551
+North America,2013,1.831,81.576
+North America,2014,1.834,81.66
+North America,2015,1.816,81.556
+North America,2016,1.788,81.626
+North America,2017,1.74,81.633
+North America,2018,1.698,81.798
+North America,2019,1.667,81.991
+North America,2020,1.625,80.684
+North America,2021,1.643,80.674
+North America,2022,1.643,81.393
+North Macedonia,2010,1.5486,77.4645
+North Macedonia,2011,1.4683,77.4568
+North Macedonia,2012,1.5063,77.3213
+North Macedonia,2013,1.4901,78.1708
+North Macedonia,2014,1.5172,78.2054
+North Macedonia,2015,1.4977,78.195
+North Macedonia,2016,1.4972,78.2657
+North Macedonia,2017,1.4372,78.5693
+North Macedonia,2018,1.4182,79.5742
+North Macedonia,2019,1.351,79.4589
+North Macedonia,2020,1.3574,77.4973
+North Macedonia,2021,1.3633,76.1561
+North Macedonia,2022,1.3735,76.1605
+Northern Mariana Islands,2010,2.922,79.3995
+Northern Mariana Islands,2011,2.9586,79.2281
+Northern Mariana Islands,2012,2.9853,79.0649
+Northern Mariana Islands,2013,2.8271,78.9547
+Northern Mariana Islands,2014,2.6566,78.8561
+Northern Mariana Islands,2015,2.513,78.7744
+Northern Mariana Islands,2016,2.3953,78.7387
+Northern Mariana Islands,2017,2.3125,78.8071
+Northern Mariana Islands,2018,2.2488,78.7661
+Northern Mariana Islands,2019,2.2228,79.0318
+Northern Mariana Islands,2020,2.2004,79.184
+Northern Mariana Islands,2021,2.1724,79.2194
+Northern Mariana Islands,2022,2.1485,79.4588
+Norway,2010,1.9389,83.156
+Norway,2011,1.8825,83.4344
+Norway,2012,1.8493,83.4128
+Norway,2013,1.7819,83.6153
+Norway,2014,1.7539,84.0945
+Norway,2015,1.7273,84.1316
+Norway,2016,1.7046,84.1588
+Norway,2017,1.625,84.2733
+Norway,2018,1.5677,84.4832
+Norway,2019,1.5369,84.6942
+Norway,2020,1.4988,84.8846
+Norway,2021,1.5034,84.8787
+Norway,2022,1.5068,85.0548
+Oman,2010,2.9426,78.4981
+Oman,2011,2.9404,78.6725
+Oman,2012,2.929,78.9003
+Oman,2013,2.949,79.0843
+Oman,2014,2.9556,79.3125
+Oman,2015,2.9594,79.5426
+Oman,2016,2.9456,79.7989
+Oman,2017,2.9367,79.8394
+Oman,2018,2.8832,79.898
+Oman,2019,2.776,79.9474
+Oman,2020,2.6875,76.7879
+Oman,2021,2.6233,74.7155
+Oman,2022,2.5668,76.0465
+Pakistan,2010,4.2966,66.8888
+Pakistan,2011,4.2336,67.0656
+Pakistan,2012,4.1693,67.1942
+Pakistan,2013,4.1061,67.6163
+Pakistan,2014,4.005,67.7176
+Pakistan,2015,3.9041,68.1686
+Pakistan,2016,3.8268,68.3249
+Pakistan,2017,3.7593,68.8161
+Pakistan,2018,3.6847,68.9592
+Pakistan,2019,3.62,69.0961
+Pakistan,2020,3.5548,68.8245
+Pakistan,2021,3.4698,68.6228
+Pakistan,2022,3.4096,68.9177
+Palau,2010,2.0111,68.7223
+Palau,2011,2.039,68.1374
+Palau,2012,2.083,67.5711
+Palau,2013,2.1346,67.0107
+Palau,2014,2.1578,66.6425
+Palau,2015,2.1309,66.6769
+Palau,2016,2.1871,66.9928
+Palau,2017,2.1076,67.4791
+Palau,2018,2.4527,68.0457
+Palau,2019,2.4772,68.7329
+Palau,2020,2.4463,69.5912
+Palau,2021,2.409,70.5753
+Palau,2022,2.3734,69.3144
+Panama,2010,2.6035,79.7333
+Panama,2011,2.6267,79.8706
+Panama,2012,2.6364,79.9911
+Panama,2013,2.6092,80.138
+Panama,2014,2.5902,80.2994
+Panama,2015,2.5639,80.5155
+Panama,2016,2.5283,80.7356
+Panama,2017,2.4926,80.9248
+Panama,2018,2.4406,81.0243
+Panama,2019,2.3752,80.9536
+Panama,2020,2.3441,80.0343
+Panama,2021,2.3252,79.594
+Panama,2022,2.2972,80.0907
+Papua New Guinea,2010,3.8827,65.2683
+Papua New Guinea,2011,3.816,66.1209
+Papua New Guinea,2012,3.7463,66.4395
+Papua New Guinea,2013,3.6841,66.7606
+Papua New Guinea,2014,3.6251,67.0575
+Papua New Guinea,2015,3.5584,67.8183
+Papua New Guinea,2016,3.4952,67.9275
+Papua New Guinea,2017,3.4317,68.078
+Papua New Guinea,2018,3.3818,68.1228
+Papua New Guinea,2019,3.3216,68.6715
+Papua New Guinea,2020,3.2743,68.8036
+Papua New Guinea,2021,3.2147,68.4151
+Papua New Guinea,2022,3.1645,69.1723
+Paraguay,2010,2.7295,74.7663
+Paraguay,2011,2.6749,74.9344
+Paraguay,2012,2.6248,75.2484
+Paraguay,2013,2.6356,75.4895
+Paraguay,2014,2.6461,75.6679
+Paraguay,2015,2.6454,75.9968
+Paraguay,2016,2.6243,76.413
+Paraguay,2017,2.5911,76.4588
+Paraguay,2018,2.561,76.3419
+Paraguay,2019,2.5248,76.441
+Paraguay,2020,2.4965,76.1558
+Paraguay,2021,2.4689,73.3847
+Paraguay,2022,2.444,73.5714
+Peru,2010,2.5727,75.9302
+Peru,2011,2.5423,76.2984
+Peru,2012,2.4866,76.6832
+Peru,2013,2.4322,77.0826
+Peru,2014,2.3847,77.4318
+Peru,2015,2.338,77.7427
+Peru,2016,2.3057,77.9528
+Peru,2017,2.2809,78.0997
+Peru,2018,2.2602,78.2926
+Peru,2019,2.2424,78.4966
+Peru,2020,2.216,76.8162
+Peru,2021,2.1917,74.7462
+Peru,2022,2.1637,75.4954
+Philippines,2010,3.2643,72.4176
+Philippines,2011,3.122,72.4313
+Philippines,2012,3.1267,72.5369
+Philippines,2013,3.0965,72.4717
+Philippines,2014,3.0314,72.8599
+Philippines,2015,2.9507,73.0158
+Philippines,2016,2.892,73.1787
+Philippines,2017,2.8652,73.3495
+Philippines,2018,2.8315,73.5562
+Philippines,2019,2.8047,73.7422
+Philippines,2020,2.7774,73.997
+Philippines,2021,2.7476,71.4822
+Philippines,2022,2.725,74.1743
+Poland,2010,1.4075,80.4598
+Poland,2011,1.336,80.7514
+Poland,2012,1.3311,80.7711
+Poland,2013,1.2931,80.9139
+Poland,2014,1.3272,81.3941
+Poland,2015,1.3241,81.307
+Poland,2016,1.3867,81.7191
+Poland,2017,1.4738,81.5418
+Poland,2018,1.4748,81.4865
+Poland,2019,1.4476,81.7395
+Poland,2020,1.4526,80.9849
+Poland,2021,1.4587,80.3888
+Poland,2022,1.4612,80.7964
+Portugal,2010,1.3852,83.1209
+Portugal,2011,1.3434,83.586
+Portugal,2012,1.2784,83.4712
+Portugal,2013,1.2105,83.888
+Portugal,2014,1.2309,84.2455
+Portugal,2015,1.303,84.14
+Portugal,2016,1.3563,84.1866
+Portugal,2017,1.3778,84.3898
+Portugal,2018,1.4118,84.3132
+Portugal,2019,1.4172,84.5466
+Portugal,2020,1.3909,83.981
+Portugal,2021,1.3631,84.0791
+Portugal,2022,1.3665,84.9298
+Puerto Rico,2010,1.6172,82.06
+Puerto Rico,2011,1.593,82.3226
+Puerto Rico,2012,1.5391,82.4284
+Puerto Rico,2013,1.4714,82.7002
+Puerto Rico,2014,1.4401,82.882
+Puerto Rico,2015,1.3655,83.7622
+Puerto Rico,2016,1.3196,84.4642
+Puerto Rico,2017,1.2256,83.1451
+Puerto Rico,2018,1.066,84.2358
+Puerto Rico,2019,1.2439,83.4559
+Puerto Rico,2020,1.2916,82.5878
+Puerto Rico,2021,1.2925,84.5221
+Puerto Rico,2022,1.2826,83.8972
+Qatar,2010,2.0874,80.4916
+Qatar,2011,2.0402,80.5383
+Qatar,2012,1.9689,80.6791
+Qatar,2013,1.9323,81.2426
+Qatar,2014,1.8977,81.4149
+Qatar,2015,1.8643,81.6608
+Qatar,2016,1.8275,82.0644
+Qatar,2017,1.8387,82.3118
+Qatar,2018,1.8484,82.4624
+Qatar,2019,1.8338,82.6461
+Qatar,2020,1.8162,80.6786
+Qatar,2021,1.8008,80.9374
+Qatar,2022,1.7812,83.1008
+Republic of Korea,2010,1.2167,84.1975
+Republic of Korea,2011,1.2494,84.593
+Republic of Korea,2012,1.2618,84.7415
+Republic of Korea,2013,1.2141,85.1945
+Republic of Korea,2014,1.2043,85.7117
+Republic of Korea,2015,1.2028,85.7843
+Republic of Korea,2016,1.1468,86.0955
+Republic of Korea,2017,1.0513,86.3962
+Republic of Korea,2018,0.97,86.4504
+Republic of Korea,2019,0.9141,86.7055
+Republic of Korea,2020,0.8872,86.7019
+Republic of Korea,2021,0.8799,86.7603
+Republic of Korea,2022,0.874,87.1007
+"Moldova, Republic of",2010,1.6978,73.7778
+"Moldova, Republic of",2011,1.6595,73.6793
+"Moldova, Republic of",2012,1.6589,73.6254
+"Moldova, Republic of",2013,1.6542,73.5863
+"Moldova, Republic of",2014,1.8216,73.5237
+"Moldova, Republic of",2015,1.8676,73.8378
+"Moldova, Republic of",2016,1.89,74.5101
+"Moldova, Republic of",2017,1.8095,75.0594
+"Moldova, Republic of",2018,1.8086,75.2316
+"Moldova, Republic of",2019,1.7803,75.6173
+"Moldova, Republic of",2020,1.7696,74.8522
+"Moldova, Republic of",2021,1.8058,73.5466
+"Moldova, Republic of",2022,1.8003,73.3201
+Romania,2010,1.5813,77.6719
+Romania,2011,1.48,77.9614
+Romania,2012,1.5165,77.8404
+Romania,2013,1.4596,78.3254
+Romania,2014,1.5497,78.3438
+Romania,2015,1.6123,78.1783
+Romania,2016,1.6911,78.7102
+Romania,2017,1.7654,79.6584
+Romania,2018,1.7551,79.9379
+Romania,2019,1.746,80.1846
+Romania,2020,1.746,79.3662
+Romania,2021,1.748,77.8898
+Romania,2022,1.7443,77.6191
+Russian Federation,2010,1.5982,75.3241
+Russian Federation,2011,1.639,76.1909
+Russian Federation,2012,1.7184,76.3767
+Russian Federation,2013,1.7522,76.7558
+Russian Federation,2014,1.7883,76.9947
+Russian Federation,2015,1.8026,77.4201
+Russian Federation,2016,1.7814,77.8835
+Russian Federation,2017,1.6272,78.3328
+Russian Federation,2018,1.5822,78.4708
+Russian Federation,2019,1.5021,78.7682
+Russian Federation,2020,1.4928,76.3872
+Russian Federation,2021,1.4927,74.7727
+Russian Federation,2022,1.5048,75.7024
+Rwanda,2010,4.5323,64.1806
+Rwanda,2011,4.3573,65.0897
+Rwanda,2012,4.2333,65.8727
+Rwanda,2013,4.1593,66.0894
+Rwanda,2014,4.1119,66.9062
+Rwanda,2015,4.0805,67.1597
+Rwanda,2016,4.06,67.9237
+Rwanda,2017,4.0265,68.1041
+Rwanda,2018,3.9935,68.2658
+Rwanda,2019,3.9389,68.4802
+Rwanda,2020,3.8733,68.9963
+Rwanda,2021,3.8207,68.1639
+Rwanda,2022,3.7492,69.2441
+Réunion,2010,2.3736,83.382
+Réunion,2011,2.3736,83.5929
+Réunion,2012,2.408,83.794
+Réunion,2013,2.3899,83.9566
+Réunion,2014,2.432,84.0267
+Réunion,2015,2.4532,84.2797
+Réunion,2016,2.4152,84.4925
+Réunion,2017,2.4103,84.6416
+Réunion,2018,2.3531,84.8125
+Réunion,2019,2.3227,85.0322
+Réunion,2020,2.2905,85.2576
+Réunion,2021,2.255,84.7499
+Réunion,2022,2.224,85.3995
+Saint Barthélemy,2010,1.2764,81.8083
+Saint Barthélemy,2011,1.2548,81.9655
+Saint Barthélemy,2012,1.238,83.9611
+Saint Barthélemy,2013,1.2103,82.2877
+Saint Barthélemy,2014,1.1691,82.4428
+Saint Barthélemy,2015,1.1024,82.6134
+Saint Barthélemy,2016,1.0328,82.779
+Saint Barthélemy,2017,0.9827,81.1445
+Saint Barthélemy,2018,0.992,83.1075
+Saint Barthélemy,2019,0.9998,83.2603
+Saint Barthélemy,2020,1.0072,83.4226
+Saint Barthélemy,2021,1.0053,83.6242
+Saint Barthélemy,2022,1.0211,83.7326
+"Saint Helena, Ascension and Tristan da Cunha",2010,1.6346,80.3091
+"Saint Helena, Ascension and Tristan da Cunha",2011,1.6327,80.103
+"Saint Helena, Ascension and Tristan da Cunha",2012,1.637,80.103
+"Saint Helena, Ascension and Tristan da Cunha",2013,1.6345,79.9036
+"Saint Helena, Ascension and Tristan da Cunha",2014,1.6386,79.2181
+"Saint Helena, Ascension and Tristan da Cunha",2015,1.6494,78.6206
+"Saint Helena, Ascension and Tristan da Cunha",2016,1.65,78.8208
+"Saint Helena, Ascension and Tristan da Cunha",2017,1.6512,79.8064
+"Saint Helena, Ascension and Tristan da Cunha",2018,1.6454,80.103
+"Saint Helena, Ascension and Tristan da Cunha",2019,1.6466,80.514
+"Saint Helena, Ascension and Tristan da Cunha",2020,1.6488,80.7178
+"Saint Helena, Ascension and Tristan da Cunha",2021,1.6497,80.4091
+"Saint Helena, Ascension and Tristan da Cunha",2022,1.6431,80.8848
+Saint Kitts and Nevis,2010,1.7621,74.4338
+Saint Kitts and Nevis,2011,1.7396,74.6136
+Saint Kitts and Nevis,2012,1.7129,74.7947
+Saint Kitts and Nevis,2013,1.6822,75.196
+Saint Kitts and Nevis,2014,1.6651,74.9284
+Saint Kitts and Nevis,2015,1.6429,74.9211
+Saint Kitts and Nevis,2016,1.633,75.941
+Saint Kitts and Nevis,2017,1.6104,75.9225
+Saint Kitts and Nevis,2018,1.5868,75.0846
+Saint Kitts and Nevis,2019,1.5685,75.195
+Saint Kitts and Nevis,2020,1.5496,75.2665
+Saint Kitts and Nevis,2021,1.5307,75.3413
+Saint Kitts and Nevis,2022,1.5115,75.6659
+Saint Lucia,2010,1.5377,75.7071
+Saint Lucia,2011,1.5221,75.7958
+Saint Lucia,2012,1.5083,75.7236
+Saint Lucia,2013,1.4961,75.7814
+Saint Lucia,2014,1.4845,76.1044
+Saint Lucia,2015,1.4728,76.4009
+Saint Lucia,2016,1.4607,76.5822
+Saint Lucia,2017,1.4483,76.7579
+Saint Lucia,2018,1.436,76.9681
+Saint Lucia,2019,1.4237,77.058
+Saint Lucia,2020,1.4113,77.055
+Saint Lucia,2021,1.399,74.7166
+Saint Lucia,2022,1.3874,74.887
+Saint Martin (French part),2010,2.3968,81.8083
+Saint Martin (French part),2011,2.4099,83.2497
+Saint Martin (French part),2012,2.7476,82.24
+Saint Martin (French part),2013,2.6679,82.0437
+Saint Martin (French part),2014,2.5951,83.0082
+Saint Martin (French part),2015,2.5578,82.6134
+Saint Martin (French part),2016,2.5345,82.779
+Saint Martin (French part),2017,2.5183,81.5505
+Saint Martin (French part),2018,2.5172,84.2817
+Saint Martin (French part),2019,2.4845,83.2603
+Saint Martin (French part),2020,2.4483,83.4226
+Saint Martin (French part),2021,2.4147,83.6242
+Saint Martin (French part),2022,2.3854,83.6582
+Saint Pierre and Miquelon,2010,1.7545,81.04
+Saint Pierre and Miquelon,2011,1.6858,81.0761
+Saint Pierre and Miquelon,2012,1.6048,81.0985
+Saint Pierre and Miquelon,2013,1.5787,81.1496
+Saint Pierre and Miquelon,2014,1.5473,81.1907
+Saint Pierre and Miquelon,2015,1.5519,81.2184
+Saint Pierre and Miquelon,2016,1.5547,81.2285
+Saint Pierre and Miquelon,2017,1.5543,81.2758
+Saint Pierre and Miquelon,2018,1.5543,81.3112
+Saint Pierre and Miquelon,2019,1.5579,81.3152
+Saint Pierre and Miquelon,2020,1.5598,81.3682
+Saint Pierre and Miquelon,2021,1.5624,81.4085
+Saint Pierre and Miquelon,2022,1.5594,81.6927
+Saint Vincent and the Grenadines,2010,2.1334,77.55
+Saint Vincent and the Grenadines,2011,2.1006,77.3177
+Saint Vincent and the Grenadines,2012,2.1202,77.0456
+Saint Vincent and the Grenadines,2013,2.1122,76.5477
+Saint Vincent and the Grenadines,2014,2.1195,77.4275
+Saint Vincent and the Grenadines,2015,2.099,77.2594
+Saint Vincent and the Grenadines,2016,2.0255,77.102
+Saint Vincent and the Grenadines,2017,1.9316,77.0517
+Saint Vincent and the Grenadines,2018,1.8734,76.8627
+Saint Vincent and the Grenadines,2019,1.8384,75.5799
+Saint Vincent and the Grenadines,2020,1.814,74.9442
+Saint Vincent and the Grenadines,2021,1.7971,72.3958
+Saint Vincent and the Grenadines,2022,1.7781,71.7315
+Samoa,2010,4.6084,75.0477
+Samoa,2011,4.6387,74.983
+Samoa,2012,4.6064,74.8478
+Samoa,2013,4.5254,75.0994
+Samoa,2014,4.4425,75.1425
+Samoa,2015,4.3572,75.1883
+Samoa,2016,4.2692,75.2152
+Samoa,2017,4.1835,75.2702
+Samoa,2018,4.1094,75.3137
+Samoa,2019,4.0474,74.805
+Samoa,2020,3.9967,75.4592
+Samoa,2021,3.9301,75.5034
+Samoa,2022,3.8754,75.3331
+San Marino,2010,1.4592,84.3287
+San Marino,2011,1.4576,84.3236
+San Marino,2012,1.2872,84.3249
+San Marino,2013,1.4912,83.5858
+San Marino,2014,1.3081,84.3297
+San Marino,2015,1.2299,84.2815
+San Marino,2016,1.1476,84.2659
+San Marino,2017,1.0557,84.2922
+San Marino,2018,1.0807,84.3294
+San Marino,2019,1.1018,84.376
+San Marino,2020,1.1217,82.4315
+San Marino,2021,1.1297,83.495
+San Marino,2022,1.1384,84.7326
+Sao Tome and Principe,2010,4.727,67.8123
+Sao Tome and Principe,2011,4.7163,67.2698
+Sao Tome and Principe,2012,4.6667,68.6014
+Sao Tome and Principe,2013,4.6004,69.0336
+Sao Tome and Principe,2014,4.511,69.8946
+Sao Tome and Principe,2015,4.3869,70.1599
+Sao Tome and Principe,2016,4.2742,70.3756
+Sao Tome and Principe,2017,4.1417,71.377
+Sao Tome and Principe,2018,4.0436,71.4452
+Sao Tome and Principe,2019,3.964,71.6198
+Sao Tome and Principe,2020,3.8925,70.8777
+Sao Tome and Principe,2021,3.8226,70.4194
+Sao Tome and Principe,2022,3.7505,71.938
+Saudi Arabia,2010,2.8535,77.5723
+Saudi Arabia,2011,2.814,77.8326
+Saudi Arabia,2012,2.7797,78.0843
+Saudi Arabia,2013,2.737,78.2538
+Saudi Arabia,2014,2.6864,78.3931
+Saudi Arabia,2015,2.6365,78.5555
+Saudi Arabia,2016,2.5898,78.7158
+Saudi Arabia,2017,2.5839,78.796
+Saudi Arabia,2018,2.5455,78.9106
+Saudi Arabia,2019,2.5038,78.9095
+Saudi Arabia,2020,2.4649,77.9923
+Saudi Arabia,2021,2.4266,78.7714
+Saudi Arabia,2022,2.3925,79.5253
+Senegal,2010,5.0642,66.3343
+Senegal,2011,5.0392,67.174
+Senegal,2012,5.0046,67.4559
+Senegal,2013,4.9598,68.2363
+Senegal,2014,4.9047,68.4112
+Senegal,2015,4.7813,69.0848
+Senegal,2016,4.6833,69.7871
+Senegal,2017,4.6219,70.0659
+Senegal,2018,4.5843,70.2582
+Senegal,2019,4.5171,70.954
+Senegal,2020,4.4542,70.2711
+Senegal,2021,4.3871,69.2838
+Senegal,2022,4.3145,70.1997
+Serbia,2010,1.3953,77.2566
+Serbia,2011,1.4031,77.6596
+Serbia,2012,1.4454,77.9931
+Serbia,2013,1.4302,78.5976
+Serbia,2014,1.4605,78.676
+Serbia,2015,1.4605,78.7215
+Serbia,2016,1.4615,79.2112
+Serbia,2017,1.4836,79.0465
+Serbia,2018,1.4871,79.3345
+Serbia,2019,1.5169,79.6693
+Serbia,2020,1.521,78.6137
+Serbia,2021,1.5278,77.1779
+Serbia,2022,1.5286,76.9752
+Seychelles,2010,2.1993,77.6211
+Seychelles,2011,2.372,78.306
+Seychelles,2012,2.4148,78.0066
+Seychelles,2013,2.2873,78.226
+Seychelles,2014,2.2817,78.4106
+Seychelles,2015,2.3493,78.3174
+Seychelles,2016,2.4449,78.1441
+Seychelles,2017,2.4803,78.2576
+Seychelles,2018,2.4504,78.3546
+Seychelles,2019,2.4163,78.6056
+Seychelles,2020,2.3766,78.0498
+Seychelles,2021,2.3484,75.6503
+Seychelles,2022,2.3133,76.0416
+Sierra Leone,2010,5.3269,54.4898
+Sierra Leone,2011,5.2087,55.4407
+Sierra Leone,2012,5.0642,56.3207
+Sierra Leone,2013,4.8734,57.2602
+Sierra Leone,2014,4.7027,57.337
+Sierra Leone,2015,4.5481,58.2021
+Sierra Leone,2016,4.4662,59.5556
+Sierra Leone,2017,4.3891,59.7941
+Sierra Leone,2018,4.2943,61.1679
+Sierra Leone,2019,4.1922,61.5545
+Sierra Leone,2020,4.0805,61.1164
+Sierra Leone,2021,3.9779,61.3543
+Sierra Leone,2022,3.8758,61.6928
+Singapore,2010,1.1606,83.9551
+Singapore,2011,1.2009,84.2222
+Singapore,2012,1.2758,84.4613
+Singapore,2013,1.197,84.6338
+Singapore,2014,1.2454,84.7858
+Singapore,2015,1.2248,84.9747
+Singapore,2016,0.9974,85.1815
+Singapore,2017,0.9542,85.4071
+Singapore,2018,0.9455,85.6229
+Singapore,2019,0.9621,85.9086
+Singapore,2020,0.9957,85.3219
+Singapore,2021,1.0243,84.9268
+Singapore,2022,1.0346,86.2947
+Sint Maarten,2010,1.8459,77.9887
+Sint Maarten,2011,1.99,77.1145
+Sint Maarten,2012,1.9302,77.0525
+Sint Maarten,2013,1.8616,78.188
+Sint Maarten,2014,1.7939,80.514
+Sint Maarten,2015,1.7305,80.6161
+Sint Maarten,2016,1.6733,79.5843
+Sint Maarten,2017,1.6274,78.1699
+Sint Maarten,2018,1.6102,78.1294
+Sint Maarten,2019,1.6008,78.7969
+Sint Maarten,2020,1.5912,77.8828
+Sint Maarten,2021,1.5814,76.6956
+Sint Maarten,2022,1.5716,77.1414
+Slovakia,2010,1.4319,79.1574
+Slovakia,2011,1.4415,79.6677
+Slovakia,2012,1.3525,79.7533
+Slovakia,2013,1.3503,79.9783
+Slovakia,2014,1.3748,80.3102
+Slovakia,2015,1.4068,80.108
+Slovakia,2016,1.4795,80.547
+Slovakia,2017,1.5208,80.5719
+Slovakia,2018,1.544,80.6042
+Slovakia,2019,1.5649,81.0097
+Slovakia,2020,1.5677,80.3598
+Slovakia,2021,1.5664,78.4307
+Slovakia,2022,1.5741,78.813
+Slovenia,2010,1.5736,82.7344
+Slovenia,2011,1.565,82.9102
+Slovenia,2012,1.5798,82.9619
+Slovenia,2013,1.5508,83.2152
+Slovenia,2014,1.5771,83.6128
+Slovenia,2015,1.5771,83.5647
+Slovenia,2016,1.5861,83.8272
+Slovenia,2017,1.6174,83.8027
+Slovenia,2018,1.6055,84.0749
+Slovenia,2019,1.6114,84.1847
+Slovenia,2020,1.5894,83.3064
+Slovenia,2021,1.6272,83.8366
+Slovenia,2022,1.6275,84.6163
+Solomon Islands,2010,4.4037,70.6366
+Solomon Islands,2011,4.4064,70.7754
+Solomon Islands,2012,4.4116,70.8987
+Solomon Islands,2013,4.418,70.9342
+Solomon Islands,2014,4.418,70.9404
+Solomon Islands,2015,4.3563,71.2368
+Solomon Islands,2016,4.293,71.4274
+Solomon Islands,2017,4.2179,71.5772
+Solomon Islands,2018,4.1572,71.7371
+Solomon Islands,2019,4.1042,71.8999
+Solomon Islands,2020,4.0376,71.8018
+Solomon Islands,2021,3.9832,71.9594
+Solomon Islands,2022,3.9247,72.3575
+Somalia,2010,7.2986,52.5378
+Somalia,2011,7.2572,53.0379
+Somalia,2012,7.1984,55.1395
+Somalia,2013,7.1285,55.7754
+Somalia,2014,7.0574,56.3618
+Somalia,2015,6.9775,56.9302
+Somalia,2016,6.8858,57.2933
+Somalia,2017,6.7382,57.8085
+Somalia,2018,6.6319,58.5448
+Somalia,2019,6.531,59.0917
+Somalia,2020,6.4172,58.0507
+Somalia,2021,6.3123,57.414
+Somalia,2022,6.202,58.2334
+South Africa,2010,2.4448,61.266
+South Africa,2011,2.4362,63.1115
+South Africa,2012,2.4474,64.4489
+South Africa,2013,2.4276,65.2667
+South Africa,2014,2.4242,66.2592
+South Africa,2015,2.3594,66.7812
+South Africa,2016,2.2612,67.7945
+South Africa,2017,2.3339,68.4299
+South Africa,2018,2.4179,68.7396
+South Africa,2019,2.4748,69.1072
+South Africa,2020,2.4008,67.9642
+South Africa,2021,2.374,64.9992
+South Africa,2022,2.3414,64.1807
+South Asia,2010,2.795,68.54
+South Asia,2011,2.73,68.932
+South Asia,2012,2.668,69.425
+South Asia,2013,2.612,69.915
+South Asia,2014,2.523,70.308
+South Asia,2015,2.494,70.73
+South Asia,2016,2.475,71.156
+South Asia,2017,2.406,71.547
+South Asia,2018,2.38,71.82
+South Asia,2019,2.323,72.097
+South Asia,2020,2.271,71.518
+South Asia,2021,2.245,69.158
+South Asia,2022,2.221,69.797
+South Asia,2010,2.795,68.54
+South Asia,2011,2.73,68.932
+South Asia,2012,2.668,69.425
+South Asia,2013,2.612,69.915
+South Asia,2014,2.523,70.308
+South Asia,2015,2.494,70.73
+South Asia,2016,2.475,71.156
+South Asia,2017,2.406,71.547
+South Asia,2018,2.38,71.82
+South Asia,2019,2.323,72.097
+South Asia,2020,2.271,71.518
+South Asia,2021,2.245,69.158
+South Asia,2022,2.221,69.797
+South Sudan,2010,5.3759,55.8313
+South Sudan,2011,5.2861,56.2959
+South Sudan,2012,5.1966,57.132
+South Sudan,2013,5.1082,57.1017
+South Sudan,2014,5.0216,57.0745
+South Sudan,2015,4.9371,57.1763
+South Sudan,2016,4.8549,57.2331
+South Sudan,2017,4.7746,57.1383
+South Sudan,2018,4.6959,57.3497
+South Sudan,2019,4.6189,57.2896
+South Sudan,2020,4.5433,56.9975
+South Sudan,2021,4.4692,56.4723
+South Sudan,2022,4.3366,57.0471
+Spain,2010,1.3752,84.9834
+Spain,2011,1.3501,85.0826
+Spain,2012,1.3254,85.0501
+Spain,2013,1.2791,85.4797
+Spain,2014,1.317,85.5778
+Spain,2015,1.3313,85.3572
+Spain,2016,1.3347,85.7695
+Spain,2017,1.3081,85.6661
+Spain,2018,1.2617,85.7983
+Spain,2019,1.2336,86.1652
+Spain,2020,1.2365,85.0137
+Spain,2021,1.2779,85.7735
+Spain,2022,1.286,86.5485
+Sri Lanka,2010,2.196,77.5962
+Sri Lanka,2011,2.2055,77.8014
+Sri Lanka,2012,2.1964,78.1475
+Sri Lanka,2013,2.1809,78.6192
+Sri Lanka,2014,2.1298,78.8129
+Sri Lanka,2015,2.0911,78.9706
+Sri Lanka,2016,2.0683,79.3554
+Sri Lanka,2017,2.0532,79.3165
+Sri Lanka,2018,2.0308,79.4933
+Sri Lanka,2019,2.0187,79.7426
+Sri Lanka,2020,2.0003,80.1109
+Sri Lanka,2021,1.9899,79.5018
+Sri Lanka,2022,1.9736,80.2303
+State of Palestine,2010,4.3834,75.0905
+State of Palestine,2011,4.2736,75.384
+State of Palestine,2012,4.1598,75.6636
+State of Palestine,2013,4.0761,75.955
+State of Palestine,2014,4.0403,75.5194
+State of Palestine,2015,4.0461,76.4426
+State of Palestine,2016,3.9347,76.6846
+State of Palestine,2017,3.8067,76.9352
+State of Palestine,2018,3.7122,77.1367
+State of Palestine,2019,3.6423,77.3377
+State of Palestine,2020,3.5704,76.6828
+State of Palestine,2021,3.5044,75.9386
+State of Palestine,2022,3.4357,75.948
+Sub-Saharan Africa,2010,5.299,57.97
+Sub-Saharan Africa,2011,5.229,58.745
+Sub-Saharan Africa,2012,5.151,59.397
+Sub-Saharan Africa,2013,5.076,60.004
+Sub-Saharan Africa,2014,5.006,60.521
+Sub-Saharan Africa,2015,4.947,60.945
+Sub-Saharan Africa,2016,4.883,61.443
+Sub-Saharan Africa,2017,4.829,61.873
+Sub-Saharan Africa,2018,4.776,62.3
+Sub-Saharan Africa,2019,4.721,62.727
+Sub-Saharan Africa,2020,4.654,62.405
+Sub-Saharan Africa,2021,4.588,61.814
+Sub-Saharan Africa,2022,4.516,62.322
+Sudan,2010,5.0172,65.5058
+Sudan,2011,4.9599,65.8006
+Sudan,2012,4.8949,66.4473
+Sudan,2013,4.9025,66.5972
+Sudan,2014,4.9116,67.2329
+Sudan,2015,4.8981,67.3485
+Sudan,2016,4.8295,67.4323
+Sudan,2017,4.7614,68.0179
+Sudan,2018,4.6813,68.233
+Sudan,2019,4.6169,68.388
+Sudan,2020,4.5419,68.2077
+Sudan,2021,4.4574,67.8786
+Sudan,2022,4.384,68.1838
+Suriname,2010,2.6095,73.5869
+Suriname,2011,2.5873,73.612
+Suriname,2012,2.5653,73.3464
+Suriname,2013,2.5426,73.176
+Suriname,2014,2.5189,73.1973
+Suriname,2015,2.4942,74.2239
+Suriname,2016,2.4688,74.8513
+Suriname,2017,2.4433,75.703
+Suriname,2018,2.4184,75.9369
+Suriname,2019,2.3942,75.6803
+Suriname,2020,2.3708,75.981
+Suriname,2021,2.3482,73.5513
+Suriname,2022,2.3217,73.5769
+Sweden,2010,1.9757,83.4644
+Sweden,2011,1.9051,83.6671
+Sweden,2012,1.9027,83.531
+Sweden,2013,1.8809,83.7178
+Sweden,2014,1.8777,84.0474
+Sweden,2015,1.8494,84.0155
+Sweden,2016,1.848,84.0801
+Sweden,2017,1.7859,84.1138
+Sweden,2018,1.7559,84.2567
+Sweden,2019,1.7173,84.7307
+Sweden,2020,1.6703,84.2849
+Sweden,2021,1.67,84.9097
+Sweden,2022,1.6717,85.092
+Switzerland,2010,1.5187,84.3602
+Switzerland,2011,1.5159,84.6755
+Switzerland,2012,1.523,84.611
+Switzerland,2013,1.5159,84.7244
+Switzerland,2014,1.5359,85.0998
+Switzerland,2015,1.5417,84.8803
+Switzerland,2016,1.5428,85.2132
+Switzerland,2017,1.521,85.3501
+Switzerland,2018,1.5149,85.3648
+Switzerland,2019,1.4875,85.5597
+Switzerland,2020,1.4917,85.0783
+Switzerland,2021,1.4946,85.8959
+Switzerland,2022,1.4979,85.9322
+Syrian Arab Republic,2010,3.4038,76.6817
+Syrian Arab Republic,2011,3.2829,76.3592
+Syrian Arab Republic,2012,3.2151,71.8161
+Syrian Arab Republic,2013,3.1695,69.7682
+Syrian Arab Republic,2014,3.1006,68.9455
+Syrian Arab Republic,2015,3.0489,70.3511
+Syrian Arab Republic,2016,2.994,71.0046
+Syrian Arab Republic,2017,2.9389,74.93
+Syrian Arab Republic,2018,2.886,75.1678
+Syrian Arab Republic,2019,2.8353,75.6378
+Syrian Arab Republic,2020,2.7984,75.5555
+Syrian Arab Republic,2021,2.7468,75.1752
+Syrian Arab Republic,2022,2.7039,76.1166
+Tajikistan,2010,3.4569,70.3526
+Tajikistan,2011,3.4563,70.8236
+Tajikistan,2012,3.4212,70.9488
+Tajikistan,2013,3.4329,71.3335
+Tajikistan,2014,3.4594,71.6443
+Tajikistan,2015,3.4589,71.8676
+Tajikistan,2016,3.3843,72.0881
+Tajikistan,2017,3.2903,72.3397
+Tajikistan,2018,3.2943,72.5985
+Tajikistan,2019,3.2811,73.0099
+Tajikistan,2020,3.2367,70.1701
+Tajikistan,2021,3.1855,73.7339
+Tajikistan,2022,3.1406,73.5182
+Thailand,2010,1.5759,80.3583
+Thailand,2011,1.5966,80.6682
+Thailand,2012,1.5858,81.0301
+Thailand,2013,1.5474,81.3647
+Thailand,2014,1.5099,81.7076
+Thailand,2015,1.469,82.0297
+Thailand,2016,1.4352,82.5876
+Thailand,2017,1.4098,82.8635
+Thailand,2018,1.3784,83.1489
+Thailand,2019,1.3523,83.4326
+Thailand,2020,1.3414,83.697
+Thailand,2021,1.3305,83.0408
+Thailand,2022,1.3175,83.9288
+Timor-Leste,2010,4.8451,66.9887
+Timor-Leste,2011,4.6559,67.3739
+Timor-Leste,2012,4.4436,67.7901
+Timor-Leste,2013,4.2684,68.1921
+Timor-Leste,2014,4.0855,68.5566
+Timor-Leste,2015,3.9027,68.8863
+Timor-Leste,2016,3.7366,69.1668
+Timor-Leste,2017,3.5959,69.4412
+Timor-Leste,2018,3.4522,69.7016
+Timor-Leste,2019,3.3357,69.9499
+Timor-Leste,2020,3.2471,70.2794
+Timor-Leste,2021,3.1486,69.5445
+Timor-Leste,2022,3.0473,70.8151
+Togo,2010,5.0074,57.3645
+Togo,2011,4.9167,57.986
+Togo,2012,4.8057,58.0988
+Togo,2013,4.7234,58.8042
+Togo,2014,4.6554,58.9791
+Togo,2015,4.5938,59.5998
+Togo,2016,4.5603,59.7567
+Togo,2017,4.5029,60.4787
+Togo,2018,4.4425,60.6459
+Togo,2019,4.3851,61.4427
+Togo,2020,4.3227,61.576
+Togo,2021,4.2574,62.3913
+Togo,2022,4.1956,62.2265
+Tokelau,2010,3.2868,74.6218
+Tokelau,2011,3.2124,74.7771
+Tokelau,2012,3.1506,74.9112
+Tokelau,2013,3.098,75.0917
+Tokelau,2014,3.0603,75.2271
+Tokelau,2015,3.0057,75.3402
+Tokelau,2016,2.951,75.4345
+Tokelau,2017,2.9,75.5571
+Tokelau,2018,2.8528,75.6615
+Tokelau,2019,2.8078,75.758
+Tokelau,2020,2.7553,75.8513
+Tokelau,2021,2.707,75.9382
+Tokelau,2022,2.6734,76.1984
+Tonga,2010,3.8886,73.3806
+Tonga,2011,3.8417,73.424
+Tonga,2012,3.7808,73.4541
+Tonga,2013,3.7073,73.4852
+Tonga,2014,3.6353,73.4887
+Tonga,2015,3.5625,73.5283
+Tonga,2016,3.4831,73.5612
+Tonga,2017,3.407,73.5796
+Tonga,2018,3.3489,73.614
+Tonga,2019,3.3149,73.6695
+Tonga,2020,3.2668,73.6975
+Tonga,2021,3.2367,73.719
+Tonga,2022,3.1934,74.1234
+Trinidad and Tobago,2010,1.7008,76.1383
+Trinidad and Tobago,2011,1.7125,76.41
+Trinidad and Tobago,2012,1.7109,76.7041
+Trinidad and Tobago,2013,1.7033,77.0691
+Trinidad and Tobago,2014,1.6933,77.4069
+Trinidad and Tobago,2015,1.6822,77.9299
+Trinidad and Tobago,2016,1.6779,77.6742
+Trinidad and Tobago,2017,1.6624,77.6943
+Trinidad and Tobago,2018,1.6513,77.3525
+Trinidad and Tobago,2019,1.6431,77.6973
+Trinidad and Tobago,2020,1.6309,77.8806
+Trinidad and Tobago,2021,1.6263,76.4032
+Trinidad and Tobago,2022,1.6137,78.1532
+Tunisia,2010,2.1049,78.5604
+Tunisia,2011,2.1909,78.6666
+Tunisia,2012,2.2163,78.6626
+Tunisia,2013,2.2403,78.8112
+Tunisia,2014,2.2519,78.7741
+Tunisia,2015,2.2507,78.8565
+Tunisia,2016,2.2383,79.0778
+Tunisia,2017,2.2214,79.1331
+Tunisia,2018,2.1741,79.3231
+Tunisia,2019,2.1477,79.3795
+Tunisia,2020,2.1145,79.2795
+Tunisia,2021,2.0859,77.1448
+Tunisia,2022,2.0637,77.4084
+Turkmenistan,2010,2.8327,71.6358
+Turkmenistan,2011,2.8917,71.8879
+Turkmenistan,2012,2.9358,71.9144
+Turkmenistan,2013,2.9579,71.9714
+Turkmenistan,2014,2.9555,72.0143
+Turkmenistan,2015,2.9301,72.1665
+Turkmenistan,2016,2.887,71.9947
+Turkmenistan,2017,2.8362,72.2272
+Turkmenistan,2018,2.786,72.1919
+Turkmenistan,2019,2.7401,72.4638
+Turkmenistan,2020,2.7006,71.984
+Turkmenistan,2021,2.6674,72.663
+Turkmenistan,2022,2.6174,72.916
+Turks and Caicos Islands,2010,1.6861,79.0538
+Turks and Caicos Islands,2011,1.6933,78.9064
+Turks and Caicos Islands,2012,1.6939,79.1998
+Turks and Caicos Islands,2013,1.676,79.2662
+Turks and Caicos Islands,2014,1.6535,79.7686
+Turks and Caicos Islands,2015,1.6695,79.6037
+Turks and Caicos Islands,2016,1.7219,79.679
+Turks and Caicos Islands,2017,1.7409,79.7313
+Turks and Caicos Islands,2018,1.7233,79.2612
+Turks and Caicos Islands,2019,1.6925,78.3713
+Turks and Caicos Islands,2020,1.6789,78.1549
+Turks and Caicos Islands,2021,1.6691,77.7022
+Turks and Caicos Islands,2022,1.6576,77.9863
+Tuvalu,2010,3.4898,67.7198
+Tuvalu,2011,3.4779,67.8214
+Tuvalu,2012,3.4671,67.9036
+Tuvalu,2013,3.3547,68.0703
+Tuvalu,2014,3.2754,68.1878
+Tuvalu,2015,3.217,68.3245
+Tuvalu,2016,3.195,68.479
+Tuvalu,2017,3.1864,68.6044
+Tuvalu,2018,3.209,68.7337
+Tuvalu,2019,3.1988,68.8503
+Tuvalu,2020,3.1881,68.9781
+Tuvalu,2021,3.1635,69.1378
+Tuvalu,2022,3.1439,69.3905
+Türkiye,2010,2.1369,78.2205
+Türkiye,2011,2.1332,78.1435
+Türkiye,2012,2.1489,78.8378
+Türkiye,2013,2.1646,79.3976
+Türkiye,2014,2.1997,79.6233
+Türkiye,2015,2.1938,79.7873
+Türkiye,2016,2.1772,79.8938
+Türkiye,2017,2.1395,80.2932
+Türkiye,2018,2.0538,80.6843
+Türkiye,2019,1.9665,80.9529
+Türkiye,2020,1.917,79.0611
+Türkiye,2021,1.8892,79.1213
+Türkiye,2022,1.8817,81.4949
+Uganda,2010,6.0709,58.7678
+Uganda,2011,5.9347,59.7219
+Uganda,2012,5.784,60.7603
+Uganda,2013,5.6182,61.8482
+Uganda,2014,5.463,62.259
+Uganda,2015,5.306,63.0054
+Uganda,2016,5.1737,63.8091
+Uganda,2017,5.0521,64.028
+Uganda,2018,4.9316,64.7438
+Uganda,2019,4.8092,64.9904
+Uganda,2020,4.693,64.8977
+Uganda,2021,4.5845,64.9197
+Uganda,2022,4.4678,65.7032
+Ukraine,2010,1.4355,75.3914
+Ukraine,2011,1.4748,76.0569
+Ukraine,2012,1.5269,76.2746
+Ukraine,2013,1.517,76.4556
+Ukraine,2014,1.5114,77.7408
+Ukraine,2015,1.5169,78.3916
+Ukraine,2016,1.4774,79.1608
+Ukraine,2017,1.3813,79.659
+Ukraine,2018,1.304,79.4797
+Ukraine,2019,1.2289,79.5871
+Ukraine,2020,1.217,77.3715
+Ukraine,2021,1.2507,76.7002
+Ukraine,2022,1.2646,73.9045
+United Arab Emirates,2010,1.7897,80.2033
+United Arab Emirates,2011,1.7245,80.4149
+United Arab Emirates,2012,1.6664,80.6232
+United Arab Emirates,2013,1.6017,80.8277
+United Arab Emirates,2014,1.5451,81.0232
+United Arab Emirates,2015,1.4859,81.2116
+United Arab Emirates,2016,1.4377,81.3957
+United Arab Emirates,2017,1.4188,81.6256
+United Arab Emirates,2018,1.3555,81.7902
+United Arab Emirates,2019,1.3337,81.9075
+United Arab Emirates,2020,1.46,81.1121
+United Arab Emirates,2021,1.4597,80.9371
+United Arab Emirates,2022,1.443,81.412
+United Kingdom,2010,1.9168,82.3423
+United Kingdom,2011,1.9106,82.7273
+United Kingdom,2012,1.9091,82.6729
+United Kingdom,2013,1.8306,82.7763
+United Kingdom,2014,1.8126,82.9922
+United Kingdom,2015,1.8087,82.7336
+United Kingdom,2016,1.7964,82.8798
+United Kingdom,2017,1.7419,82.9925
+United Kingdom,2018,1.6808,82.9506
+United Kingdom,2019,1.6292,83.4731
+United Kingdom,2020,1.5606,82.4483
+United Kingdom,2021,1.562,82.7722
+United Kingdom,2022,1.5656,83.8335
+United Republic of Tanzania,2010,5.2929,61.9145
+United Republic of Tanzania,2011,5.2071,63.0822
+United Republic of Tanzania,2012,5.0985,64.2176
+United Republic of Tanzania,2013,5.122,65.3165
+United Republic of Tanzania,2014,5.1222,66.2738
+United Republic of Tanzania,2015,5.0876,67.0295
+United Republic of Tanzania,2016,5.0328,67.6909
+United Republic of Tanzania,2017,4.9929,68.2071
+United Republic of Tanzania,2018,4.9225,68.6493
+United Republic of Tanzania,2019,4.864,69.1173
+United Republic of Tanzania,2020,4.7948,68.5417
+United Republic of Tanzania,2021,4.7259,68.3107
+United Republic of Tanzania,2022,4.6611,68.9298
+United States,2010,1.9325,81.1662
+United States,2011,1.8943,81.1823
+United States,2012,1.8779,81.31
+United States,2013,1.8558,81.3302
+United States,2014,1.8593,81.4136
+United States,2015,1.8424,81.2957
+United States,2016,1.8127,81.3573
+United States,2017,1.7598,81.3584
+United States,2018,1.7179,81.5403
+United States,2019,1.6892,81.7192
+United States,2020,1.6428,80.3081
+United States,2021,1.6619,80.238
+United States,2022,1.6611,81.0153
+Uruguay,2010,2.011,80.8967
+Uruguay,2011,2.0075,81.0323
+Uruguay,2012,2.0058,81.1651
+Uruguay,2013,2.01,81.2801
+Uruguay,2014,1.9985,81.3598
+Uruguay,2015,2.0229,81.3861
+Uruguay,2016,1.9449,81.3561
+Uruguay,2017,1.796,81.3157
+Uruguay,2018,1.6581,81.2826
+Uruguay,2019,1.5462,81.2959
+Uruguay,2020,1.4767,81.911
+Uruguay,2021,1.4927,79.2583
+Uruguay,2022,1.4826,81.6848
+Uzbekistan,2010,2.4407,71.8132
+Uzbekistan,2011,2.3612,72.2247
+Uzbekistan,2012,2.3435,72.4698
+Uzbekistan,2013,2.3977,72.8413
+Uzbekistan,2014,2.4599,73.1299
+Uzbekistan,2015,2.4949,73.3238
+Uzbekistan,2016,2.4976,73.5052
+Uzbekistan,2017,2.5051,73.7728
+Uzbekistan,2018,2.6932,73.815
+Uzbekistan,2019,2.7951,73.8829
+Uzbekistan,2020,2.9279,72.7888
+Uzbekistan,2021,2.8565,73.3899
+Uzbekistan,2022,2.7995,74.2932
+Vanuatu,2010,4.1502,72.0556
+Vanuatu,2011,4.1513,72.0399
+Vanuatu,2012,4.1243,71.9796
+Vanuatu,2013,4.0931,72.0555
+Vanuatu,2014,4.0602,71.8922
+Vanuatu,2015,4.0061,71.9397
+Vanuatu,2016,3.9634,72.1256
+Vanuatu,2017,3.9103,72.2537
+Vanuatu,2018,3.8549,72.3003
+Vanuatu,2019,3.813,72.405
+Vanuatu,2020,3.7778,72.4265
+Vanuatu,2021,3.7355,72.9446
+Vanuatu,2022,3.6967,73.0665
+Venezuela,2010,2.4715,77.1395
+Venezuela,2011,2.4435,77.1003
+Venezuela,2012,2.4165,77.4163
+Venezuela,2013,2.3904,77.3229
+Venezuela,2014,2.365,77.0745
+Venezuela,2015,2.3404,77.2179
+Venezuela,2016,2.3166,76.7416
+Venezuela,2017,2.2936,76.2277
+Venezuela,2018,2.2716,76.4306
+Venezuela,2019,2.2504,76.5658
+Venezuela,2020,2.2302,75.8142
+Venezuela,2021,2.2108,75.2072
+Venezuela,2022,2.188,75.6546
+Viet Nam,2010,1.8949,78.2636
+Viet Nam,2011,1.902,78.4146
+Viet Nam,2012,1.9272,78.4221
+Viet Nam,2013,1.9505,78.4783
+Viet Nam,2014,1.95,78.5927
+Viet Nam,2015,1.9513,78.6565
+Viet Nam,2016,1.938,78.7554
+Viet Nam,2017,1.9296,78.7198
+Viet Nam,2018,1.9371,78.7771
+Viet Nam,2019,1.9481,78.8884
+Viet Nam,2020,1.9545,79.9199
+Viet Nam,2021,1.9437,78.2349
+Viet Nam,2022,1.9409,79.2901
+Virgin Islands U.S.,2010,2.4808,77.7573
+Virgin Islands U.S.,2011,2.3377,78.4604
+Virgin Islands U.S.,2012,2.2542,78.4911
+Virgin Islands U.S.,2013,2.2374,78.8414
+Virgin Islands U.S.,2014,2.2241,79.1196
+Virgin Islands U.S.,2015,2.2182,80.3215
+Virgin Islands U.S.,2016,2.2059,80.8042
+Virgin Islands U.S.,2017,2.1938,80.8551
+Virgin Islands U.S.,2018,2.1756,81.1212
+Virgin Islands U.S.,2019,2.1625,81.1372
+Virgin Islands U.S.,2020,2.1497,80.9827
+Virgin Islands U.S.,2021,2.1282,80.6386
+Virgin Islands U.S.,2022,2.1104,80.8662
+Wallis and Futuna,2010,2.093,78.7217
+Wallis and Futuna,2011,2.1227,78.7669
+Wallis and Futuna,2012,2.1112,78.6687
+Wallis and Futuna,2013,2.0918,77.6216
+Wallis and Futuna,2014,2.0817,78.4094
+Wallis and Futuna,2015,2.06,78.5393
+Wallis and Futuna,2016,2.0493,79.1822
+Wallis and Futuna,2017,2.0288,78.0174
+Wallis and Futuna,2018,2.0053,79.4988
+Wallis and Futuna,2019,1.9918,80.6203
+Wallis and Futuna,2020,1.9751,79.8486
+Wallis and Futuna,2021,1.9577,79.869
+Wallis and Futuna,2022,1.9289,80.99
+West and Central Africa,2010,5.835,55.57
+West and Central Africa,2011,5.787,56.079
+West and Central Africa,2012,5.729,56.381
+West and Central Africa,2013,5.659,56.777
+West and Central Africa,2014,5.595,57.075
+West and Central Africa,2015,5.545,57.338
+West and Central Africa,2016,5.491,57.654
+West and Central Africa,2017,5.423,58.028
+West and Central Africa,2018,5.358,58.358
+West and Central Africa,2019,5.295,58.798
+West and Central Africa,2020,5.229,58.601
+West and Central Africa,2021,5.163,58.37
+West and Central Africa,2022,5.087,59.037
+West and Central Africa,2010,5.835,55.57
+West and Central Africa,2011,5.787,56.079
+West and Central Africa,2012,5.729,56.381
+West and Central Africa,2013,5.659,56.777
+West and Central Africa,2014,5.595,57.075
+West and Central Africa,2015,5.545,57.338
+West and Central Africa,2016,5.491,57.654
+West and Central Africa,2017,5.423,58.028
+West and Central Africa,2018,5.358,58.358
+West and Central Africa,2019,5.295,58.798
+West and Central Africa,2020,5.229,58.601
+West and Central Africa,2021,5.163,58.37
+West and Central Africa,2022,5.087,59.037
+Western Europe,2010,1.616,82.95
+Western Europe,2011,1.591,83.194
+Western Europe,2012,1.587,83.179
+Western Europe,2013,1.556,83.373
+Western Europe,2014,1.573,83.698
+Western Europe,2015,1.573,83.433
+Western Europe,2016,1.591,83.74
+Western Europe,2017,1.577,83.696
+Western Europe,2018,1.552,83.85
+Western Europe,2019,1.529,84.155
+Western Europe,2020,1.509,83.512
+Western Europe,2021,1.52,83.506
+Western Europe,2022,1.523,84.094
+World,2010,2.5869,72.7065
+World,2011,2.5729,73.1396
+World,2012,2.5904,73.4945
+World,2013,2.5604,73.8399
+World,2014,2.5529,74.1759
+World,2015,2.524,74.3865
+World,2016,2.5256,74.7183
+World,2017,2.5042,74.9747
+World,2018,2.4433,75.1996
+World,2019,2.4062,75.4191
+World,2020,2.3485,74.7891
+World,2021,2.3208,73.807
+World,2022,2.3142,74.3968
+Yemen,2010,4.8553,69.3965
+Yemen,2011,4.7442,69.4905
+Yemen,2012,4.6337,69.4143
+Yemen,2013,4.5289,69.5279
+Yemen,2014,4.4274,69.4424
+Yemen,2015,4.3224,68.8988
+Yemen,2016,4.2144,68.9407
+Yemen,2017,4.1124,68.9616
+Yemen,2018,4.0428,68.6014
+Yemen,2019,3.9626,68.6272
+Yemen,2020,3.8861,67.8847
+Yemen,2021,3.7948,67.1339
+Yemen,2022,3.7161,67.2216
+Zambia,2010,5.3629,58.5334
+Zambia,2011,5.2713,59.5915
+Zambia,2012,5.1458,60.8049
+Zambia,2013,5.0265,61.7815
+Zambia,2014,4.8994,62.7964
+Zambia,2015,4.7935,63.5089
+Zambia,2016,4.7065,64.1205
+Zambia,2017,4.6136,64.6084
+Zambia,2018,4.5361,64.9158
+Zambia,2019,4.4509,65.4095
+Zambia,2020,4.3789,65.0428
+Zambia,2021,4.308,63.9276
+Zambia,2022,4.242,64.5101
+Zimbabwe,2010,4.0248,52.2397
+Zimbabwe,2011,4.0956,55.4377
+Zimbabwe,2012,4.0958,57.7228
+Zimbabwe,2013,4.064,59.533
+Zimbabwe,2014,3.9617,60.8441
+Zimbabwe,2015,3.849,61.6372
+Zimbabwe,2016,3.7714,62.4161
+Zimbabwe,2017,3.7064,62.9561
+Zimbabwe,2018,3.6591,63.594
+Zimbabwe,2019,3.5994,63.6614
+Zimbabwe,2020,3.5451,63.8616
+Zimbabwe,2021,3.4908,62.0449
+Zimbabwe,2022,3.4371,62.0943
